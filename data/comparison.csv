@@ -1,0 +1,942 @@
+conv_id,claim,type
+4db7zk,Women who carry cell phones in their bras are more prone to breast cancer?,IMPLICIT_COMPARISON
+4doz8f,Vegetarians/Vegans are healthier than omnivores,STRICT_COMPARISON
+4drskv,The new Spongebob episodes are better than the old ones,STRICT_COMPARISON
+4drxjj,Hitler used Flouride in concentration camps to have greater mind control?,IMPLICIT_COMPARISON
+4e7rlh,Cooking with nonstick pans lead to a higher risk of cancer.,IMPLICIT_COMPARISON
+4fj4yk,Updating your phone's software makes it slower,IMPLICIT_COMPARISON
+49pqc3,"The Rotschild family owns the Federal Reserve, has hundreds of billions dollars and is the most powerful organisation in the world?",IMPLICIT_COMPARISON
+4az6d5,"Women need more sleep than men, says science",STRICT_COMPARISON
+4vptz7,running on asphalt is better for your joints than on the sidewalk.,IMPLICIT_COMPARISON
+4zgwpu,that doing cardio early in the morning on an empty stomach is among the most effective ways to lose weight,IMPLICIT_COMPARISON
+4zgy0k,that that doing intense cardio early in the morning on an empty stomach is among the most rapidly effective ways to lose weight?,IMPLICIT_COMPARISON
+4zh2sh,that that doing intense cardio early on an empty stomach is among the most rapidly effective ways to lose weight?,IMPLICIT_COMPARISON
+4zl9mz,Masturbation Makes Your Penis Smaller,IMPLICIT_COMPARISON
+50aoxz,Is hempcrete better than regular concrete?,STRICT_COMPARISON
+50b74g,Hempcrete is stronger than regular concrete and THEY don't want you to know about it?,STRICT_COMPARISON
+5wt06m,waist cinching makes your waist permanently smaller,IMPLICIT_COMPARISON
+5wt2v1,training in a waist cinching corset makes your waist permanently smaller,IMPLICIT_COMPARISON
+615phr,English requires one of the largest vocabularies,IMPLICIT_COMPARISON
+3vmdi6,"Communism is the best type of government, and because of Capitalism Russia is failing",IMPLICIT_COMPARISON
+3w8o86,Sugary drinks are more likely to cause hangovers,IMPLICIT_COMPARISON
+3woh2a,"If you don't count african-american gun-related crime, the USA's gun-related crime is as low as Belguim's and Luxemborg's.",STRICT_COMPARISON
+3xa7tb,Chefs consider ketchup the greatest food because it hits all taste buds on the tongue,IMPLICIT_COMPARISON
+3y1fx9,Pitbulls are more dangerous than other breeds of dogs.,STRICT_COMPARISON
+3y4yhi,"Apple's ""retina"" display has a higher resolution than what your retina can detect, so increasing the resolution from there doesn't change how you perceive it at all.",IMPLICIT_COMPARISON
+3yhn04,"Macon, Georgia has more cherry blossoms than any other city in the world?",IMPLICIT_COMPARISON
+3yuate,"Intelligent people tend to think faster, as result, their handwriting is sloppier.",IMPLICIT_COMPARISON
+2kelxg,The abacus is faster than a calculator?,STRICT_COMPARISON
+2ksfj2,It's better to drink room temperature water instead of cold water.,IMPLICIT_COMPARISON
+2ktk5r,Transcendental meditation is any better than regular meditation.,STRICT_COMPARISON
+43mkk9,Male Pornstars with big penises have more testosterone that the average male?,IMPLICIT_COMPARISON
+46k0q0,The average man is stronger than 99.9% of women,STRICT_COMPARISON
+46ocfz,Healthy bodies give better pheromones thus making person more attractive to opposite sex?,IMPLICIT_COMPARISON
+47ohxu,Marijuana is completely harmless/actually makes you healthier.,IMPLICIT_COMPARISON
+2a2161,Washing hair with baking soda and vinegar gives healthier hair?,IMPLICIT_COMPARISON
+2bp7r8,If you have $10 in your pocket and no debt you are in the top 50% of wealthiest americans?,IMPLICIT_COMPARISON
+32u4y5,Men who are able to grow a full beard are more likely to go bald than men who are unable to grow a beard.,IMPLICIT_COMPARISON
+33c153,Do ancestry/record sites with a paywall really have any more info than free sources?,STRICT_COMPARISON
+33nezb,Elite black athletes are generally better at running and worse at swimming than other ethnic groups because of the height of their navels and therefore center-of-gravity?,IMPLICIT_COMPARISON
+33uium,"There are more bikes in the Netherlands than people""",IMPLICIT_COMPARISON
+346wug,The Fukushima nuclear accident was worse than the Chernobyl one.,STRICT_COMPARISON
+2lw555,Is this new lock from Taiwan really more secure?,IMPLICIT_COMPARISON
+2mz8jj,Music sounds better on vinyl,IMPLICIT_COMPARISON
+2n5ixf,Fanning yourself makes you even more hotter,IMPLICIT_COMPARISON
+2fbqzi,High Fructose Corn syrup is worse for your health than sugar.,IMPLICIT_COMPARISON
+2fk1m1,"diet pop like coke zero, that contains artificial sweeteners, is worse for you than drinking regular pop.",IMPLICIT_COMPARISON
+2g4uj6,Athletes are more prone to violence and/or substance abuse,IMPLICIT_COMPARISON
+2g52bb,Hight Intensity Interval Training (HIIT) is the best exercise to do for fat loss,IMPLICIT_COMPARISON
+2gugog,The 85 richest people have more money than the 3.5 billion poorest,STRICT_COMPARISON
+2h7k8g,Present day American life is less safe than it was in the 1950s and this is not the best time so far in history to be alive,STRICT_COMPARISON
+2yivm1,or is this the first season of House of Cards where the background music has been consistently better than the acting/plot?,STRICT_COMPARISON
+2ykxjh,Microwaving your food somehow makes it less nutritious.,IMPLICIT_COMPARISON
+30ktnp,My friend told me that it takes more gas to use the AC in a car than to drive it.,IMPLICIT_COMPARISON
+4majq9,One nuclear energy facility emits less carbon than one hybrid car,STRICT_COMPARISON
+4mcfks,Companies set expiration/due by dates earlier than when food is actually bad so you buy more of it,IMPLICIT_COMPARISON
+4n4d6f,White House claim that the American economy is the most durable in the world,IMPLICIT_COMPARISON
+4nti04,"If I knew a language as a child but completely forgot it, it's easier to learn than if I had never known the language at all",IMPLICIT_COMPARISON
+4ocu7h,The Wounded Knee Massacre was the worst mass shooting in US history,IMPLICIT_COMPARISON
+4pivoe,using coconut oil as conditioner is better than real conditioner,STRICT_COMPARISON
+4pzvmu,digesting a serving of iceberg lettuce burns more calories than said lettuce actually contains.,STRICT_COMPARISON
+4q6bmh,Washing your hair in the evening is better for you than washing it in the morning because the oil in your hair is good for you?,IMPLICIT_COMPARISON
+55fan3,"An Indonesian man claims to be the oldest person in the world, at 145",IMPLICIT_COMPARISON
+57sasj,"I understand that tooth-whitening strips will make teeth whiter; but will they really do it without bad side effects, like eroding the enamel?",IMPLICIT_COMPARISON
+591rzn,"IsiItBullshit: ""you are richer than 75% of this world""",STRICT_COMPARISON
+59qbfu,We are more attracted to people who look like us,IMPLICIT_COMPARISON
+59srh3,"Women who work at home have a 54% higher death rate from cancer than those who work away from home, due to toxic materials in household cleaning products?",IMPLICIT_COMPARISON
+6ywl8c,Carbs make a girl's butt bigger,IMPLICIT_COMPARISON
+6zukom,"It's hard to healthily lose weight by simply eating less because when your body starves, it starts to consume organs and muscle before fat.",IMPLICIT_COMPARISON
+6zxa2p,kids and drunk people are less likely to suffer injury when falling because they don't tense up,IMPLICIT_COMPARISON
+705mh5,Apple slows down older iPhone models when newer ones come out.,IMPLICIT_COMPARISON
+70tkub,It's better to say too much than to not say enough.,IMPLICIT_COMPARISON
+711gp1,"Calorie free, artificial sweeteners are more unhealthy than their natural, calorie dense counterparts, like cane sugar or corn syrup.",STRICT_COMPARISON
+71vpil,most hard to pronounce ingredients are bad for you,IMPLICIT_COMPARISON
+8npci5,Oreo is more addictive than cocaine or heroine.,STRICT_COMPARISON
+8npgqi,Nicotine is more addictive than heroin,STRICT_COMPARISON
+8o3e5y,English is one of the hardest languages to learn?,IMPLICIT_COMPARISON
+8o3gk7,English is one of the hardest languages to,IMPLICIT_COMPARISON
+8obuco,you use up more gas if the A/C is running while driving?,IMPLICIT_COMPARISON
+8oeks1,Native Americans never regularly occupied more than 5 to 10% of the Modern US and Canada,STRICT_COMPARISON
+8ohja1,Oreos are more addictive than cocaine or heroine,STRICT_COMPARISON
+8ooa6p,Swords are better than Guns,STRICT_COMPARISON
+8otp9s,the list of ingredients on any package food is from most to less abundant?,IMPLICIT_COMPARISON
+8owmh3,cheap sunglasses are actually worse for you since they trick the pupil into dialating but letting in more UV than if wearing no sunglasses.,STRICT_COMPARISON
+8owxdi,Eating chocolate expands your stomach allowing you to eat more,IMPLICIT_COMPARISON
+8oy0ts,Fritos/Lays/Doritos Chip bags get smaller every year,IMPLICIT_COMPARISON
+8pg6hr,"that if your ring fingers are longer than your index finger, you have more masculine traits (even if you're a woman)",STRICT_COMPARISON
+8pl04j,Longer headphone cables drain smartphone batteries faster,IMPLICIT_COMPARISON
+8ppos8,Did holding a cellphone higher in the air ever make reception better?,IMPLICIT_COMPARISON
+8pvb7j,working out when you’re sick is an better way to get healthy than bed rest.,IMPLICIT_COMPARISON
+8q024i,The dark web is bigger than the normal web?,STRICT_COMPARISON
+8q04gn,If you shave your body hair it regrows with more hair,IMPLICIT_COMPARISON
+8q07mr,"Hair regrows faster, and becomes larger, when shaved off",IMPLICIT_COMPARISON
+8q39ja,Having no Friends is better than having shitty friends,STRICT_COMPARISON
+8q748o,Shaving your facial hair makes it grow back thicker,IMPLICIT_COMPARISON
+8qche5,Darkest part of the night is just before dawn,IMPLICIT_COMPARISON
+8qclc9,The darkest part of the night is just before dawn,IMPLICIT_COMPARISON
+8qlrj7,Fanning yourself is worse than just doing nothing to cool down.,STRICT_COMPARISON
+8qpbfo,Coca Cola has varying ratios of syrup to soda for different establishments to best pair with the food there,IMPLICIT_COMPARISON
+8r1g57,Buying a $200 shoe that lasts 5 years is better than buying a $40 shoe that lasts 1 year?,STRICT_COMPARISON
+8r1t45,there’s more caffeine in a cup of tea than in a cup of coffee?,IMPLICIT_COMPARISON
+8r5jwp,Turning your thermostat to a temperature and leaving it uses less energy than raising it and lowering it.,STRICT_COMPARISON
+8r6jm0,you burn more calories eating celery than you gain,IMPLICIT_COMPARISON
+8r8mxi,Breathing in through your nose and out through your mouth is easier on your lungs.,IMPLICIT_COMPARISON
+8ra83c,Masturbating makes your dick smaller,IMPLICIT_COMPARISON
+8rbn55,Muscle weighs more than fat?,STRICT_COMPARISON
+8rg3gu,You are more likely to remember something if you write it in blue ink than if you write it in black ink.,IMPLICIT_COMPARISON
+8rhx9i,Ice makes scorpion stings worse,IMPLICIT_COMPARISON
+8ripin,Daddy Longlegs are actually some of the most poisonous spiders in the world but their weak jaw/fangs causes them to be harmless,IMPLICIT_COMPARISON
+8rjo02,Sleeping with a hard mattress is better than a soft one,STRICT_COMPARISON
+8rp9qg,Disney has more lawyers than animators.,STRICT_COMPARISON
+8rpdt6,Drinking room temp or warm water cools you down more than cold water?,STRICT_COMPARISON
+8rqurj,Accents are more prominent when you hear them in your life compared to media,STRICT_COMPARISON
+8rrw07,Tap water is safer and cleaner to drink than bottled water,IMPLICIT_COMPARISON
+8ruvos,Red cars are more likely to get pulled over than other cars.,IMPLICIT_COMPARISON
+8rv9vn,Turning your computer off using the os is better for the pc then turning it off by the button.,IMPLICIT_COMPARISON
+8rvzdu,Chapstick actually makes your lips more chapped making you use more chapstick,IMPLICIT_COMPARISON
+8rwq44,using air conditioning in your car wastes more gas.,IMPLICIT_COMPARISON
+8rwrve,Keeping Laptop on Sleep or Hibernate is better than Shutdown.,STRICT_COMPARISON
+8rzfg2,Sleeping with less clothes is actually warmer.,IMPLICIT_COMPARISON
+8s5o5z,Flossing isn’t as helpful as dentists make it out to be,STRICT_COMPARISON
+8s5v9d,asphalt temperatures are much higher than the forecasted temp?,STRICT_COMPARISON
+8s6prv,Using laptops/phones WHILE they are charging makes the battery worse,IMPLICIT_COMPARISON
+8seiod,knowing how to play the piano makes learning any other instrument easier.,IMPLICIT_COMPARISON
+8sfqwl,Reading books automatically make you smarter,IMPLICIT_COMPARISON
+8si1zp,"Women are biologically weaker than men, and if so, why?",STRICT_COMPARISON
+8siuaj,Laser eye surgery makes your eyes slightly bigger.,IMPLICIT_COMPARISON
+8slqni,You get more sun burned in the pool?,IMPLICIT_COMPARISON
+8sppzc,Water with dissolved molecular hydrogen provides more health benefits than normal water,IMPLICIT_COMPARISON
+8sst7l,"If you eat the same fruit or a veggie two days in a row, you get less nutritional value from the it on the second day?",IMPLICIT_COMPARISON
+8ssvxi,"If I eat a fruit or veggie two days in a row, I get less nutritional value from it on the second day?",IMPLICIT_COMPARISON
+8sutry,lifting free weights at the gym burns more fat than cardio exercises?,STRICT_COMPARISON
+8sv6tu,A weaker than average male is still considerably stronger than a stronger than average female.,STRICT_COMPARISON
+8svy37,Wearing black clothes makes you hotter as opposed to lighter clothes on a sunny day?,IMPLICIT_COMPARISON
+8t2e80,A car is one of the safest places you can be during a thunderstorm because the rubber tires ground you?,IMPLICIT_COMPARISON
+8t4r38,Accidentally cutting yourself with a razor sharp knife is somehow better than cutting yourself with a dull one.,STRICT_COMPARISON
+8t8m7s,does having an ugly friend come with you clubing make you look more attractive?,IMPLICIT_COMPARISON
+8t9dk9,Room temperature water is better for drinking than cold?,IMPLICIT_COMPARISON
+8t9vo6,2nd hand smoke is more dangerous than active smoking?,STRICT_COMPARISON
+8tal8p,Scratching a bite makes it more itchy?,IMPLICIT_COMPARISON
+8tawjj,that the orange peel is healthier to eat than the orange?,IMPLICIT_COMPARISON
+8taz7g,the orange peel is healthier to eat than the orange,IMPLICIT_COMPARISON
+8tc5ob,having dirty hair when dyeing your hair makes the dye hold longer and better than if your hair was clean before dyeing it.,STRICT_COMPARISON
+8th7hy,Pulling out your eyelashes makes them grow back shorter,IMPLICIT_COMPARISON
+8tiqib,Thinking about an injury makes it hurt more rather than not thinking about it?,STRICT_COMPARISON
+8tit9e,"Always buy index stocks, most mutual funds perform worse than random",STRICT_COMPARISON
+8tjnai,people see their own faces as being more physically attractive than they actually are.,STRICT_COMPARISON
+8tjsc6,that people see their own faces as being more physically attractive than they actually are.,STRICT_COMPARISON
+8tlm5g,running your debit card as credit at a gas pump is safer,IMPLICIT_COMPARISON
+8tn5e6,Fanning yourself with a magazine makes you even hotter instead of cooling you down?,IMPLICIT_COMPARISON
+8ts999,Chevron with Techron gets better mileage than gas from other stations?,IMPLICIT_COMPARISON
+8tv79m,"If you have a cough, it gets wtorse/more frequent at night.",IMPLICIT_COMPARISON
+8tvvcg,Decaf is as addictive as regular coffee,STRICT_COMPARISON
+8twf2i,Cracking your knuckles leads to less good grip,IMPLICIT_COMPARISON
+8twwkg,there are actually MORE trees in the US now than there were in the 1700’s,IMPLICIT_COMPARISON
+8u2cwh,Children have a higher tolerance for pain than adults?,IMPLICIT_COMPARISON
+8u3w3z,Going out in the rain makes it easier to get sick,IMPLICIT_COMPARISON
+8u5l6z,honey is healthier than sugar?,STRICT_COMPARISON
+8u6rbs,Rinsing with mouthwash after brushing your teeth is just as good as flossing?,STRICT_COMPARISON
+8uag6y,How much do collagen peptides really help with higher metabolism/weight loss?,IMPLICIT_COMPARISON
+8ud49x,Australians have some of the worst internet in the world,IMPLICIT_COMPARISON
+8uzudi,Monsanto is so evil they changed their name to the Company that made the gas to kill Jews because it was a better PR image?,IMPLICIT_COMPARISON
+8v1xwr,After getting hit in the balls doing the butterfly stretch while flapping your “wings” helps your balls hurt less,IMPLICIT_COMPARISON
+8v5t9j,Cold showers increase cortisol resistance making you more relaxed.,IMPLICIT_COMPARISON
+27lagz,Second-hand smoking is worse than smoking.,STRICT_COMPARISON
+27mi5k,Shaving makes your facial hair grow quicker,IMPLICIT_COMPARISON
+28psw1,Being small always makes you more of a lightweight,IMPLICIT_COMPARISON
+28wsch,Sex makes female's butt smaller.,IMPLICIT_COMPARISON
+7uhfnr,Vaping is less harmful to tour body them being around secondhand smoke?,IMPLICIT_COMPARISON
+7upkgb,That there is no real way to make your dong bigger?,IMPLICIT_COMPARISON
+7v171x,Gas from different gas stations are really “different” and some can be better for you car,IMPLICIT_COMPARISON
+7v86el,Electronic cigarettes (vaper) are more harmful to health than smoking tobacco,IMPLICIT_COMPARISON
+7vg9dv,is 93 grade gas better than 89?,STRICT_COMPARISON
+7vl2wa,"Chocolate milk is really good for you, and can actually be healthier than regular milk.",STRICT_COMPARISON
+7vlm1a,Watching tv/looking at your phone causes your eyesight to get worse,IMPLICIT_COMPARISON
+7vlnkx,"Your eyesight gets worse from looking at your phone, computer screen, tv etc",IMPLICIT_COMPARISON
+7vx77t,Drinking milk before you sleep makes you taller.,IMPLICIT_COMPARISON
+7vyj70,Taking Cold showers everyday is much better then taking hot showers?,IMPLICIT_COMPARISON
+7w416j,"if swiped, the “emergency sos” screen on iPhones immediately triggers an alarm at the nearest police station and an officer is dispatched to the phone’s GPS location",IMPLICIT_COMPARISON
+7wc27c,Junk food gives you more acne,IMPLICIT_COMPARISON
+7wdcai,walking a certain distance is just as healthy as running the same length,STRICT_COMPARISON
+7wo56c,[IsItBullshit] That the US killed more civilians abroad during the first 8 months of Trump's presidency than during all of Obama's presidency?,IMPLICIT_COMPARISON
+7wp8pt,Wanking makes your dick bigger,IMPLICIT_COMPARISON
+7x6uzd,"Filling up your car with petrol in small amounts regularly, is better than filling up the entire tank once.",STRICT_COMPARISON
+7xe3l5,asking for a receipt at McDonald’s gets you better service,IMPLICIT_COMPARISON
+7xjoyc,that washing your hands with warm water dries out your hands more than cold water does?,STRICT_COMPARISON
+7xuxxw,Washing your hands with warm water dries your skin out more than washing with cold water?,STRICT_COMPARISON
+7xxyni,Smart people are less likely to be addicted to drugs,IMPLICIT_COMPARISON
+7y2ero,you need to fill “nicer” cars with premium fuel.,IMPLICIT_COMPARISON
+7y8kby,Driving your car with less than a quarter tank of gas is bad for the car?,STRICT_COMPARISON
+7ydvru,That the safety position on airplanes (head between legs) is actually more dangerous but keeps your teeth intact so you can be identified,IMPLICIT_COMPARISON
+7yeeuc,you're uglier in pictures than you are in person?,IMPLICIT_COMPARISON
+7yfguc,you see yourself as more attractive than you are...,STRICT_COMPARISON
+7yo2ee,Chimpanzees are 6 times stronger than an adult male?,STRICT_COMPARISON
+7ysg41,"People of African descent have more fast twitch muscles making them more “explosive” (ex NBA, NFL).",IMPLICIT_COMPARISON
+7yu9sb,Does an alarm with a volume crescendo feature wake you up less tired than a regular alarm?,STRICT_COMPARISON
+7yxkjl,Muslims in UK are more fundamentalist than their parents/grandparents.,STRICT_COMPARISON
+7z19pi,That the supposed winners of online casino line tables are not real but there to make you gamble more?,IMPLICIT_COMPARISON
+7z8qsp,More than two eggs a day is very unhealthy.,STRICT_COMPARISON
+7zbrs2,Whether you're cutting or bulking (bodybuilding) it's as simple as calories in vs calories burned?,STRICT_COMPARISON
+7zee4g,cheaper sunglasses are in some cases as good as more expensive ones,STRICT_COMPARISON
+7zj4xv,The production cost of the actual bottle of Coca Cola is more than the contents.,STRICT_COMPARISON
+7zp79i,Sleeping in a different bed is harder due to an evolutionary response.,IMPLICIT_COMPARISON
+7zv1w1,It's easier to build muscle while in prison,IMPLICIT_COMPARISON
+808bdi,chocolate milk is healthier than white milk.,STRICT_COMPARISON
+80h6mx,Bing is the best web browser for porn.,IMPLICIT_COMPARISON
+3brfqc,The President of the United States of America is the most powerful person in the world.,IMPLICIT_COMPARISON
+3di7yb,"Streaming is the worst audio in history.""",IMPLICIT_COMPARISON
+3exaao,", more people have access to a cell phone than a working toilet?",IMPLICIT_COMPARISON
+2uo879,"the best / most important time to brush your teeth is when you wake up, before breakfast",IMPLICIT_COMPARISON
+2v0ylt,Growing up playing outside and not constantly disinfecting yourself makes your immune system stronger with age,IMPLICIT_COMPARISON
+2v9egd,Old fashion Coca-Cola is significantly better than modern Coca-Cola.,STRICT_COMPARISON
+2wcdj7,Eating right before going to sleep builds up more body fat than eating hours before bed.,IMPLICIT_COMPARISON
+2wl3k2,"Kid scores higher IQ than Einstein, Hawking, and Bill Gates",IMPLICIT_COMPARISON
+2xf7id,Shaving makes hair grow back thicker and coarser,IMPLICIT_COMPARISON
+3j7t4f,U.S. States with stricter gun control laws have higher rates of violent crime than U.S. States with more relaxed gun control laws.,IMPLICIT_COMPARISON
+3jkuwe,Marijuana has 400x more carcinogens in it than cigarette smoke.,IMPLICIT_COMPARISON
+3jllaj,Pineapple Juice is 5 times more effective than cough syrup?,STRICT_COMPARISON
+3l2klf,"Smart"" cars are the safest cars",IMPLICIT_COMPARISON
+3lllzb,Putting castor oil or vaseline on your eyelashes makes them grow longer,IMPLICIT_COMPARISON
+1o5utw,Having a full tank of gas gives me better fuel mileage.,IMPLICIT_COMPARISON
+1ofw50,"Crazy"" girls are better in bed.",IMPLICIT_COMPARISON
+1pkx7n,Film photography/cinematography looks better than digital photography/cinematography,STRICT_COMPARISON
+38eyn7,Is the Computer Science career field as perfect as everyone on reddit makes it out to be?,STRICT_COMPARISON
+38f4qp,Mock examinations are harder than the real thing?,STRICT_COMPARISON
+3awhxo,"Ocean of Games - seems to be a game pirating site of direct downloads - if it's bullshit, it's the best bullshit I've ever come across",IMPLICIT_COMPARISON
+5aoabn,Women have a higher pain tolerance than man,IMPLICIT_COMPARISON
+5blre7,The suicide squad joker is one of the closest incarnations of the Comic Book Joker?,IMPLICIT_COMPARISON
+5d1zpz,"As for nutrition and health, is there something inherently worse about the quality of fast food?",IMPLICIT_COMPARISON
+5e7rf5,Putting more Oxygen in something is possible and it will help you clean better.,IMPLICIT_COMPARISON
+5eufwp,Modern yoga is less than 100 years old,STRICT_COMPARISON
+5exvqm,Humans have a shorter attention span than a goldfish,IMPLICIT_COMPARISON
+5fcdah,Taking Vitamin Supplements is the right/best way to get those vitamins you are lacking in.,IMPLICIT_COMPARISON
+6ljbhv,"Anti-depressants (SSRIs, specifically) often make people more depressed",IMPLICIT_COMPARISON
+6o0lmt,Diet soda is worse for you than drinking regular soda.,IMPLICIT_COMPARISON
+6omg9b,fuel pumps pump more gas if you only pull the handle halfway?,IMPLICIT_COMPARISON
+6pp1cp,Vladimir Putin is secretly the richest man in the world,IMPLICIT_COMPARISON
+23rrfi,Does casual cannabis use really make you dumber as a young adult (18-20)?,IMPLICIT_COMPARISON
+75ev3b,Does a lower heart rate burn more calories?,IMPLICIT_COMPARISON
+75h5pq,home air filters become less efficient the better the filter level is,IMPLICIT_COMPARISON
+75q39q,That shaving makes your hair grow back faster of thicker?,IMPLICIT_COMPARISON
+76wkmb,sleeping a little during the week then sleeping a lot during the weekend is more harmful then sleeping a little all the time (changing sleep patterns is more harmful than steady sleep patterns),STRICT_COMPARISON
+77l952,most women have character and are more than sex objects,STRICT_COMPARISON
+77yuk3,Are female sperm slower than male sperm?,STRICT_COMPARISON
+78pu7f,It’s better to have ice cold water sprayed up in your privates than to just use tp?,IMPLICIT_COMPARISON
+78w9x3,You get more things done in the morning than you do staying up late.,IMPLICIT_COMPARISON
+79atjb,It’s terrible (or even just slightly worse) to drink your calories,IMPLICIT_COMPARISON
+79rat1,Minimalist Shoes are Better For Your Feet; Allow Them to Work As They're Supposed To,IMPLICIT_COMPARISON
+696ths,That sleeping more than 8 hours a night is harmful to your health,STRICT_COMPARISON
+6b5lrd,Fries makes your ass bigger?,IMPLICIT_COMPARISON
+6bt52h,"Pressing # to be placed on the ""do not call"" list only lets the system know that my phone number has an active user and will result in more spam calls",IMPLICIT_COMPARISON
+6dvvbi,Hard beds are better for backs,IMPLICIT_COMPARISON
+7aknqd,Weight lifting while you are overweight makes you look even more fatter.,IMPLICIT_COMPARISON
+7atd33,Are Patagonia type jackets really dramatic warmer than other jackets?,STRICT_COMPARISON
+7bg0rn,there are Individuals out there richer then Bill Gates.,IMPLICIT_COMPARISON
+7c7j43,Is the dark web bullshit or can I really buy a phone there for way cheaper or even drugs,IMPLICIT_COMPARISON
+7c9wsv,The healthiest teeth are the whitest teeth,IMPLICIT_COMPARISON
+7ca1l4,The whitest teeth are the healthiest teeth,IMPLICIT_COMPARISON
+7e6t6w,"...MK Ultra was way worse than you probably ever thought (torture, causing people to go insane, raping kids) from Wikipedia with sources",STRICT_COMPARISON
+5s0zxt,vibrators make you less sensitive,IMPLICIT_COMPARISON
+5tbpio,"Sugar is just as addictive as cocaine, but we don't notice because the negative side effects and withdrawl symptoms are so less",STRICT_COMPARISON
+5tkcne,Vegetables have 80% less nutrients than 50 years ago.,STRICT_COMPARISON
+5tot4i,"Obama, FDR, and Jimmy Carter imposed more intense bans than Trumps current ""Muslim Ban""",IMPLICIT_COMPARISON
+5v0b9b,The Federal Reserve is a secret overlord organisation controlled by the richest families (Rotschilds and others) to manipulate the world into trillions of debt.,IMPLICIT_COMPARISON
+5v0mrq,The Federal Reserve is a secret overlord organisation controlled by the richest families (Rotschilds and others) to manipulate the world into trillions of debt!?,IMPLICIT_COMPARISON
+7nw8mp,"dark roast coffee has less caffeine than medium roast, because it’s roasted longer?",STRICT_COMPARISON
+7ny2bq,“Zero” Sodas are better than Diet Sodas,STRICT_COMPARISON
+7odu09,"Mixed race people have better genetics then people born of the same race because it combines the best of two genes that, for the most of history, have adapted to two completely different environments.",IMPLICIT_COMPARISON
+7ohgsu,higher octane gas works better in low temps.,IMPLICIT_COMPARISON
+7oio52,"Refurbished electronics are often better than new, as they go through more rigorous testing than new products",STRICT_COMPARISON
+7plu3h,Exercising in the heat is more effective than exercising in normal temperatures,STRICT_COMPARISON
+7qzb8o,black clothing attracts the heat making you hotter,IMPLICIT_COMPARISON
+7rr9p7,breaking your knuckles makes your punches stronger?,IMPLICIT_COMPARISON
+7s950d,It costs more to execute someone than to keep them in prison for life.,IMPLICIT_COMPARISON
+7sajo0,People were smaller in the past?,IMPLICIT_COMPARISON
+7si8zz,"Peace processes where women are involved are ""steadier""",IMPLICIT_COMPARISON
+7t2j8t,Girls who shave their face have the hair grow back thicker and darker,IMPLICIT_COMPARISON
+7t91eb,"when applying for federal Social Security Disability (SSDI), it is best to not be employed at all until the case/benefits process is complete.",IMPLICIT_COMPARISON
+7u145v,"When bands play in a city, and say it's the best city they've played in?",IMPLICIT_COMPARISON
+7u4ojx,"""Shocking"" freshly boiled eggs in ice water makes them easier to peel?",IMPLICIT_COMPARISON
+7u4p01,"Shocking"" freshly boiled eggs in ice water makes them easier to peel?",IMPLICIT_COMPARISON
+7u9nu5,smoking one cig a week is not much safer than one a day,STRICT_COMPARISON
+7u9wnb,Dolphins are smarter than humans,STRICT_COMPARISON
+4qu7fk,"We got the habit of eating boogers from our ancestors, wich used to do it in order to grow a stronger immunitary system",IMPLICIT_COMPARISON
+4re3xo,Sweden and Germany (among other nations) have less rigorous standards for what is legally considered rape?,IMPLICIT_COMPARISON
+4selad,Honey extension applies best coupon codes and sends you a commission bonus for using it?,IMPLICIT_COMPARISON
+4sxx9w,Nvidia gimps their older generation cards trough drivers in order to encourage people to buy their new generation cards.,IMPLICIT_COMPARISON
+4t8x41,Orlando Massacre Was The Largest Mass Shooting in US History?,IMPLICIT_COMPARISON
+4tv7j6,"Tania Light, invention used as way to show Kangen water is better for you.",IMPLICIT_COMPARISON
+4u2eji,Olive oil helps you with better tanning,IMPLICIT_COMPARISON
+5m1qmd,Taco Bell is now one of the healthiest fast-food chains in America,IMPLICIT_COMPARISON
+5m6165,"Being a woman is x times more expensive as being a man.""",IMPLICIT_COMPARISON
+5n0akk,"When dolphins are used during human water births, the children grow up with higher IQs?",IMPLICIT_COMPARISON
+5n0da6,"When dolphins use echolocation signal during human waterbirths, the child grows up with a higher IQ",IMPLICIT_COMPARISON
+5n2bu7,Gay men's brains are more structurally similar to heterosexual females?,IMPLICIT_COMPARISON
+5nkvgw,Most indoor lit spaces are only as bright as Neptune,STRICT_COMPARISON
+5qtqwy,Pumping gas when it's cold out gives you more bang for your buck.,IMPLICIT_COMPARISON
+5qvo65,"It's heathier to leave potato skins on, but the ""eyes"" that grow on potatoes are poisonous",IMPLICIT_COMPARISON
+3z28qz,"Is a ""plant based diet"" actually the healthiest?",IMPLICIT_COMPARISON
+3z2a6r,"that a ""plant based diet"" is the healthiest for humans?",IMPLICIT_COMPARISON
+3zcwl1,Vaping is as bad as smoking?,STRICT_COMPARISON
+3zl9t3,Microsoft and Google announced that their deep neural nets beat the best human image recognition in the world,IMPLICIT_COMPARISON
+3zu53m,More coverage of suicides or mass shooting leads to more suicides or mass shootings,IMPLICIT_COMPARISON
+416d5m,"Artificial sweeteners, like the ones found in diet soda or that you put in coffee, are worse for you than actual sugar",IMPLICIT_COMPARISON
+4289i6,Fallout 4 has more lines of dialog than Fallout 3 and Skyrim combined,IMPLICIT_COMPARISON
+42xqjb,chip cards are more secure,IMPLICIT_COMPARISON
+2rvwr4,Do soda companies put salt into their drinks to make you more thirsty?,IMPLICIT_COMPARISON
+2rvy1h,do soda companies use salt to make people more thirsty?,IMPLICIT_COMPARISON
+2t108z,This Keyboard seems cheap because it cost more everywhere else?,IMPLICIT_COMPARISON
+2t1114,"This Keyboard,It's Much cheaper here as opposed to to every other site?",IMPLICIT_COMPARISON
+2tppqr,Alcohol is the most harmful drug.,IMPLICIT_COMPARISON
+2tr1dy,Weed is now way more powerful than it used to be,STRICT_COMPARISON
+2tt70b,coconut oil is a more effective toothpaste than anything you can get at the store,IMPLICIT_COMPARISON
+2u8zy0,It's harder to get into the British Marine Corp then the Navy Seals.,IMPLICIT_COMPARISON
+50uffa,Faster fetal heart tones means that it's a girl?,IMPLICIT_COMPARISON
+524rbs,It is possible to have fat legs compared to the upper-body due fat distribution,STRICT_COMPARISON
+533gls,Squatting while pooping is better than sitting while pooping.,STRICT_COMPARISON
+54gshx,Soy candles are just as dangerous as paraffin candles?,STRICT_COMPARISON
+54k9y1,Arsenal youngster Hector Bellerin is faster than Jamaican 100m world record holder Usain Bolt over 40m,STRICT_COMPARISON
+54xlsf,Squatty Potty Makes Shits Easier?,IMPLICIT_COMPARISON
+21o2bn,artificial sweeteners are as bad/worse for you than sugar,IMPLICIT_COMPARISON
+65cr4z,"Though there are more stars in the Universe than there are grains of sand on Earth, there are more atoms in a single grain of sand than there are stars in the Universe",IMPLICIT_COMPARISON
+1n50co,Are your bones actually stronger after they've been broken?,IMPLICIT_COMPARISON
+1nek4h,Organic foods are better for you,IMPLICIT_COMPARISON
+34kwsq,Biting a carrot in half is just as easy as biting your finger in half,STRICT_COMPARISON
+35i8xp,"bastard dogs have less illnesses, live longer, and are generally more healthy than purebreds.",STRICT_COMPARISON
+36gfno,"The Deep Web is larger than the ""regular web""",STRICT_COMPARISON
+6s86t3,Some shopping sites charge more for items when shopping from a Mac?,IMPLICIT_COMPARISON
+6tkajw,80% of the global population live off less than $10 a day.,STRICT_COMPARISON
+6uw3v7,Breakfast is the most important meal of the day,IMPLICIT_COMPARISON
+6vtgvw,using the air conditioner while driving uses more gas,IMPLICIT_COMPARISON
+6w6o5z,Men who take vitamin B12 are more prone to lung cancer,IMPLICIT_COMPARISON
+6waumq,males are more susceptible to get autism than females,IMPLICIT_COMPARISON
+6x0hcn,Credit cards are more beneficial than cash?,STRICT_COMPARISON
+3r3mt0,Frozen fruit is better for you than fresh fruit.,IMPLICIT_COMPARISON
+3ro4lf,If three million people–less than 1% of the US population–launched an armed insurrection it would be enough to bring all semblance of state power down.,STRICT_COMPARISON
+3u58ac,there are more germs on a keyboard then on a toilet seat,IMPLICIT_COMPARISON
+88mvmq,that 1 dose of the HPV vaccine is just as effective as the 2 or 3 dose series?,STRICT_COMPARISON
+88ofvj,Soap Removes Germs and Bacteria better than plain water?,STRICT_COMPARISON
+88tb9f,masturbating to pictures of sex instead of videos is better for your sex life if you struggle to get erections when having sex?,IMPLICIT_COMPARISON
+88vcxh,Frozen yogurt is less bad for you than ice cream,IMPLICIT_COMPARISON
+89en7o,Running on sand is easier on your legs than running on pavement,IMPLICIT_COMPARISON
+89wfa4,drinking water after eating spicy food makes the spiciness worse,IMPLICIT_COMPARISON
+8atxn6,That brushing your teeth without toothpaste is just as effective as brushing your teeth with toothpaste?,STRICT_COMPARISON
+8axgsg,There are more ways to shuffle a deck of cards than there are atoms on earth?,IMPLICIT_COMPARISON
+8ayru8,Strawberries provide more vitamin C than oranges,IMPLICIT_COMPARISON
+8b41zl,Food items that are farther back in the shelf are more fresh,IMPLICIT_COMPARISON
+8bduh6,scratching a bug bite makes it worse,IMPLICIT_COMPARISON
+8bl6ib,Liking someone’s scent means genetically stronger children?,IMPLICIT_COMPARISON
+8bzowx,Wearing glasses makes your eyesight worse,IMPLICIT_COMPARISON
+8c66u8,that higher ranked universities have a harder workload than lower ranked universities?,IMPLICIT_COMPARISON
+8c691w,That higher ranked universities have a harder workload than lower ranked colleges or universities?,IMPLICIT_COMPARISON
+8ca2ts,People raise and lower flags everyday?,IMPLICIT_COMPARISON
+8cncqd,Playing basketball makes you taller?,IMPLICIT_COMPARISON
+8cxp6r,sleeping in increments of 3 hours make you feel more refreshed,IMPLICIT_COMPARISON
+8d1n03,You see yourself 5x more attractive in the mirror than you actually are?!?,IMPLICIT_COMPARISON
+8d436j,"Venomous animals such as snakes, spiders and scorpions are more deadly when they’re babies because they don’t know how much venom to use?",IMPLICIT_COMPARISON
+8d461g,"Venomous animals such as spiders, snakes and scorpions are more dangerous as babies because they don’t know how much venom to use",IMPLICIT_COMPARISON
+8d8eau,X-Ray tech told me you are exposed to more radiation on a plane flight than your average x-ray session.,IMPLICIT_COMPARISON
+8d8vvc,loosing weight makes your penis bigger?,IMPLICIT_COMPARISON
+8daqzn,A 4oz cup of coffee made with a K-Cup has more caffeine than an 8oz cup,STRICT_COMPARISON
+8dbui0,Anorexia has more health problems than morbid obesity,IMPLICIT_COMPARISON
+8do1mb,a dogs mouth is cleaner than a humans,STRICT_COMPARISON
+8e04mc,humans are the best distance running creatures on earth,IMPLICIT_COMPARISON
+8e0vck,being in the cold makes you more likely to get sick,IMPLICIT_COMPARISON
+8e19xe,the hot air dryers in the bathrooms actually blow more bacteria onto your hands after washing them?,IMPLICIT_COMPARISON
+8e59jg,You’re more likely to die on your birthday?,IMPLICIT_COMPARISON
+8e60wu,you’re more likely to die on your birthday than other days?,IMPLICIT_COMPARISON
+8e8abj,sharks are older than trees?,STRICT_COMPARISON
+8e9cb1,Are women less horny than guys?,STRICT_COMPARISON
+8ed63y,Cold showers are much better for you than hot/warm showers.,IMPLICIT_COMPARISON
+8ei4pn,Showering everyday makes you ashier,IMPLICIT_COMPARISON
+8emqpv,Eating spicy foods burns more calories than other foods?,STRICT_COMPARISON
+8enc53,"On a test, “C” is most likely to be correct",IMPLICIT_COMPARISON
+8epzkx,Roads are more slick just after it begins to rain versus after its been raining for a while,IMPLICIT_COMPARISON
+8ex1c2,It is better to bend with your knees than it is to bend with your back,IMPLICIT_COMPARISON
+8ezogc,Drinking alcohol makes you stronger,IMPLICIT_COMPARISON
+8f1y4s,"One-Minute Oats are less nutritious than other kinds, or, there is a significant difference between kinds of oats/oatmeal",STRICT_COMPARISON
+8fow2t,"the more you wax your pubes, the thinner they grow back each time, until they stop growing",IMPLICIT_COMPARISON
+8ft4i9,Is the crust healthier than the center part of bread?,STRICT_COMPARISON
+8fvjux,That driving on low gas and refueling frequently is more costly than filling up and driving.,STRICT_COMPARISON
+8fypow,Coconut water is more hydrating that normal tap water?,IMPLICIT_COMPARISON
+1pvn3j,The government spies on Google Chrome more than any other browser,STRICT_COMPARISON
+1r9hpm,Not rinsing your mouth (only spitting) after brushing your teeth is better than rinsing.,STRICT_COMPARISON
+1rdc5e,"Plants grow better when around ""positive energy""",IMPLICIT_COMPARISON
+3ftpqo,Concerts/shows are better in NYC,IMPLICIT_COMPARISON
+3gb08p,There were more katanas in the US than Japan after WWII,IMPLICIT_COMPARISON
+3gd717,Cutting/plucking/waxing facial hair causes it to come back thicker and faster next time.,IMPLICIT_COMPARISON
+3hy7wk,Sleeping on your left side is better than sleeping on your right side.,STRICT_COMPARISON
+4hxwng,The effects of smokeless tobacco are not nearly as serious as health class made them seem,STRICT_COMPARISON
+4jihyq,Shaving makes your hair grow back thicker.,IMPLICIT_COMPARISON
+4jj8c5,Alcohol makes your hands more steady,IMPLICIT_COMPARISON
+4jxwv4,Drinking different kinds of booze gives you worse hangovers?,IMPLICIT_COMPARISON
+4l4vzp,"Is ""Fleur de sel"" healthier than regular salt?",STRICT_COMPARISON
+4lx73d,"On average, Lefties live 9 years less than righties?",STRICT_COMPARISON
+3nq5ke,Makkah and Madinah are the brightest from outer space,IMPLICIT_COMPARISON
+3o2ehc,Bugs have more nutritional value than steaks.,IMPLICIT_COMPARISON
+3p9g3q,Alcohol is worse for your health than marijuana,IMPLICIT_COMPARISON
+3pih72,My cell phone has more technology than the spaceship that went to the moon,STRICT_COMPARISON
+3qzvc2,George W. Bush is a greatson of the most famous satanist Aleister Crowley?,IMPLICIT_COMPARISON
+7h11qt,"When you are young and you get in an any kind of accident, time seems to slowed down and as you grow older you loose that feeling?",IMPLICIT_COMPARISON
+7hokvt,"BS: ""Essex teenager has higher IQ than Einstein""",IMPLICIT_COMPARISON
+7hokzn,"Essex teenager has higher IQ than Einstein""",IMPLICIT_COMPARISON
+7j87sk,That companies are more likely to hire you if you apply on their website directly because they don't have to pay a 3rd party website like glassdoor to refer you to them?,IMPLICIT_COMPARISON
+7je288,Diet Coke is healthier than normal Coke,STRICT_COMPARISON
+7khaqj,Using hand sanitizer is bad because it makes germs stronger,IMPLICIT_COMPARISON
+7l3yie,; Finland and neighboring scanadavian countries havs the highest suicide rate in first world countries.,IMPLICIT_COMPARISON
+7l4xhg,Finland and other neighboring scandanavian countries have the highest suicide rate in all first world nations,IMPLICIT_COMPARISON
+7lyxnn,"Each time there is a bell sound in 'Red Right Hand' by Nick Cave, it is louder than the previous one",STRICT_COMPARISON
+7mpo74,That diet soda is worse for you then regular,IMPLICIT_COMPARISON
+7mwt4s,"Bodies have a “set point” meaning if you let yourself go, your body wants to keep you at the higher weight.",IMPLICIT_COMPARISON
+7n4i7x,laying down on your left is better than on your right.,STRICT_COMPARISON
+7nbrgz,taking Tylenol and ibuprofen together is as effective as taking an opiate?,STRICT_COMPARISON
+9kkqbx,"Depending on the colour of one's eyes, are they able to absorb more light compared to other eyes?",STRICT_COMPARISON
+9ktuyy,Playing Mozart like music for babies creates smarter adults?,IMPLICIT_COMPARISON
+9ku1pr,The clock on a microwave uses more electricity than actually microwaveing food?,STRICT_COMPARISON
+9kx64p,that there are more arrests and ER visits during a full moon?,IMPLICIT_COMPARISON
+9ky3oe,Buying a regular used car is better for the environment than buying a new hybrid or electric vehicle,IMPLICIT_COMPARISON
+9kzcs5,Light cigarettes are just as harmful as regular ones.,STRICT_COMPARISON
+9kziu8,light cigarettes are just as harmful as regular ones.,STRICT_COMPARISON
+9l0aas,i am more likely to die in taxi on the way to the airport then on the flight itself.,IMPLICIT_COMPARISON
+9l3v2j,It's easier to fall asleep watching TV than laying in bed,IMPLICIT_COMPARISON
+9l3zc5,it's easier to fall asleep by watching TV rather than laying in bed,IMPLICIT_COMPARISON
+9l5je2,Killing wasps by squashing them only attracts more wasps,IMPLICIT_COMPARISON
+9l801w,circumcision causes males to feel less sexual pleasure?,IMPLICIT_COMPARISON
+9l9uty,Older generations negatively judged the younger ones for reading books when they became widespread,IMPLICIT_COMPARISON
+9lbhdy,it is more difficult to learn new languages later in life as compared to a child.,STRICT_COMPARISON
+9lkcib,Is cold brew coffee less acidic than normal coffee?,STRICT_COMPARISON
+9lkf3c,cold brew is less acidic than normal coffee,STRICT_COMPARISON
+9lmogf,Cars go 5 miles less than what the speedometer is showing you,STRICT_COMPARISON
+9lpbt0,There are more regulations for pet food quality then for our food?,IMPLICIT_COMPARISON
+9lpkxi,Earbuds are more dangerous for your ears than headphones,IMPLICIT_COMPARISON
+9lpx61,"If you sleep more than 9 hours, your brain only recognizes the time you slept after that",STRICT_COMPARISON
+9ltmqr,Unemployment in the US is the lowest it has been since 1969,IMPLICIT_COMPARISON
+9m03mj,"This ""sound"" video makes you taller by tricking your growth hormones.",IMPLICIT_COMPARISON
+9m3s8o,It's better to sleep with your doors closed at night.,IMPLICIT_COMPARISON
+9m4eqd,You're more likely to get cramp if you eat before going swimming?,IMPLICIT_COMPARISON
+9mbjda,Eating beans makes you fart more?,IMPLICIT_COMPARISON
+9mdfdw,"Food in America tastes weird compared to Europe and the rest of the world because of added sugars, even to regular things like bread and vegetables.",STRICT_COMPARISON
+9mg76w,"Sugar(Fructose) is as Bad as Alcohol, damages your liver, and will easily give you non-alcoholic fatty liver disease.",STRICT_COMPARISON
+9mkk1g,Dark chocolate is healthier than white chocolate,STRICT_COMPARISON
+9mlc2r,Eating all of your Halloween candy in a short period of time is better for your teeth than eating it over weeks.,IMPLICIT_COMPARISON
+9mpfxs,Orange cats are naturally nicer than other cats,STRICT_COMPARISON
+9mv4k7,Criminal Profiling is wrong more than half the time,STRICT_COMPARISON
+9mwati,if you have ten dollars and no debt you have more money than 25% of the us,STRICT_COMPARISON
+9myypz,that people see you 20 percent more attractive than you see yourself?,STRICT_COMPARISON
+9n2b8y,Men have longer arms than women/women have longer legs than men.,IMPLICIT_COMPARISON
+9n43h5,Breastfeeding kids when they are over 3 makes them more intelligent,IMPLICIT_COMPARISON
+9n5vsz,Having the A/C on in the car depletes more gas?,IMPLICIT_COMPARISON
+9n9ffa,It's bad to lift weights and exercise if you're thin and are still growing taller,IMPLICIT_COMPARISON
+9na1j1,American newspaper ads used to charge by the letter and that's why some American English words now have less letters (eg. color)?,IMPLICIT_COMPARISON
+9ndxxo,Drinking water after eating something spicy only makes it hotter.,IMPLICIT_COMPARISON
+9njn2u,the seasons are opposite on the Northern Hemisphere compared to the Southern Hemisphere.,STRICT_COMPARISON
+9nt0xm,a vegan diet is worse for the environment because it means importing more food from around the world,IMPLICIT_COMPARISON
+9nuiht,Breakfast is the most important meal of the day.,IMPLICIT_COMPARISON
+9nxxej,Other people see you as 20X more attractive,IMPLICIT_COMPARISON
+9nz092,Your blood thins living in warmer climates and thickens in colder climates?,IMPLICIT_COMPARISON
+9nzale,Salt helps ulcers heal quicker,IMPLICIT_COMPARISON
+9oatmj,pore strips make your pores look larger,IMPLICIT_COMPARISON
+9oi8ri,It's safer to lick a urinal than a keyboard?,IMPLICIT_COMPARISON
+9oj1ws,that a sausage has more energy than a stick of dynamite?,STRICT_COMPARISON
+9ojll3,lifting weights continues to burn calories more than a day after working out?,STRICT_COMPARISON
+9ojy83,Potatoes are better from Idaho,IMPLICIT_COMPARISON
+9ol9ix,Eating more than 2 egg yolks a day is harmful?,STRICT_COMPARISON
+9olpmc,"drying your hair with a towel accelerates hair loss due to the friction caused, and leaving your hair to air dry is better",IMPLICIT_COMPARISON
+9oreja,"1 Juul pod has more nicotine than 20 cigarettes, is this bullshit?",STRICT_COMPARISON
+9ott6a,Coconut oil is bad for you (and worse than other oils),STRICT_COMPARISON
+9oxwx9,"That when we kill an animal and eat it’s meat, the dead animal’s adrenaline produced when it dies makes the consumer a little more ‘Aggressive’ ?",IMPLICIT_COMPARISON
+9oz2jw,"The worse your eyesight is, the better your other senses become",IMPLICIT_COMPARISON
+9p0xxn,The emergency landing protocol for airlines tells you to bend forward with you head against the chair in front of you to increase the odds of passengers dying because it's cheaper to pay out wrongful death lawsuits than lifetimes of medical bills.,IMPLICIT_COMPARISON
+9p12y9,Brown rice really isn't much healthier for you than white.,IMPLICIT_COMPARISON
+9p22yp,2 medium pizzas is less pizza then 1 large pizza,IMPLICIT_COMPARISON
+9p2rkc,Lottery Scratch Tickets are worse than Electronic Lotto,STRICT_COMPARISON
+9p4pqp,Gummy Vitamins are just as helpful as the pill version,STRICT_COMPARISON
+9p5yn9,"you absorb as much THC as you can just by inhaling, and holding hits for longer doesn’t do anything",IMPLICIT_COMPARISON
+9p6ab5,Turning on your car for only 5 minutes wastes more gas than letting it run for longer,STRICT_COMPARISON
+9p87xz,Is it true that human’s head is heavier than the rest of the body?,STRICT_COMPARISON
+9p8hvb,that human’s head is heavier than the rest of our entire body?,STRICT_COMPARISON
+9p8qn6,"When exercising, it’s better to breathe in through your nose and out through your mouth to reduce cramping.",IMPLICIT_COMPARISON
+9pa8z1,If you dry swallow pills they are not as effective as washing them down with water.,STRICT_COMPARISON
+9pb6yo,Wearing an extra pair of socks reduces circulation to the feet making your feet feel colder.,IMPLICIT_COMPARISON
+9prtln,If you see a roach/rat it means there are dozens more and the one you saw has nowhere to hide,IMPLICIT_COMPARISON
+9purlw,Allergic reactions get worse each time you have one?,IMPLICIT_COMPARISON
+9pzvfd,LED bulbs are more ecologically sound than incandescent and compact florescent bulbs.,STRICT_COMPARISON
+9q37j0,Drinking over a few hours is less harmful than drinking a lot at once,STRICT_COMPARISON
+9q3r9n,Drinking over a span of a few hours is healthier than drinking a lot at once,STRICT_COMPARISON
+9q4kik,"Nintendo bought the rights to a porn movie called ""Super Hornio Bros"" so that nobody would be able to produce any more copies of the movie",IMPLICIT_COMPARISON
+9q5u1p,Himalayan rock salts (pink) are healthier than normal salt,STRICT_COMPARISON
+9q99ns,that shampooing your hair every day actaully does more damage than anything?,STRICT_COMPARISON
+9qb7e3,This audio video triggers your growth hormones and make you taller.,IMPLICIT_COMPARISON
+9qbqu2,pulling out a grey hair makes more grey hairs pop up on your head,IMPLICIT_COMPARISON
+9qle49,it's safer to sleep with your doot closed in case of a fire.,IMPLICIT_COMPARISON
+9qo5tn,Your hair grows faster when you’re in a hotter place,IMPLICIT_COMPARISON
+9qok81,Bread expands in your stomach making you feel fuller,IMPLICIT_COMPARISON
+9qpa3v,Dollar Store pregnancy tests are just as accurate and reliable as more expensive tests.,IMPLICIT_COMPARISON
+9qq9jt,losing weight and gaining it back is worse for you than just staying overweight?,IMPLICIT_COMPARISON
+9qqpfg,Sugar is more addictive than cocaine,STRICT_COMPARISON
+9qt1xy,"Making your ceiling fans turn clockwise in the winter, makes the room feel warmer",IMPLICIT_COMPARISON
+9qt270,Baked beans contain sperm whale semen instead of salt to make them more addictive.,IMPLICIT_COMPARISON
+9qt57o,"Men tend to work overtime more than women, and are less likely to take time off on average",STRICT_COMPARISON
+9qte06,"Making your ceiling fan go clockwise in the winter, makes the room feel warmer",IMPLICIT_COMPARISON
+9qtfbt,You're most likely to get your own seat on an unfilled bus if you sit in the first 3 rows?,IMPLICIT_COMPARISON
+9qtw5s,"that the best day of the year to buy a car is December 31, because the dealership is taxed on the cars they have on the lot the last day of the year?",IMPLICIT_COMPARISON
+9qvopa,Eating mangos before smoking weed makes the high stronger and longer,IMPLICIT_COMPARISON
+9r2geg,"Ordering a rare hamburger is more dangerous than ordering a rare steak because the meat in ground beef comes from multiple cows meaning a higher chance of the meat being tainted, as opposed to the steak coming from one cow",STRICT_COMPARISON
+9r7ctk,Shampooing your hair everyday does more damage than anything,STRICT_COMPARISON
+9rchka,showering with hot water is worse for your hair than showering with cold water,IMPLICIT_COMPARISON
+9renfn,Cannabis used to be so weak that people hardly got high compared to what we're smoking now,STRICT_COMPARISON
+9rk7fs,"the best way to breathe while long-distance running is to breathe every 3 steps, inhaling on the left foot and exhaling in the right foot",IMPLICIT_COMPARISON
+9rpf4q,Are iPhones significantly more popular than Android in Europe?,STRICT_COMPARISON
+9rtegp,Sitting in a room looking at a screen with the lights off is worse than sitting in a room looking at a screen with the lights on.,STRICT_COMPARISON
+9rtgmu,Sitting in a room looking at a screen with the lights off is worse for your eyes than sitting in a room looking at a screen with the lights on.,IMPLICIT_COMPARISON
+9rvx6p,Premium gas is better than regular gas and once you use premium in your engine it can never go back.,STRICT_COMPARISON
+9ryyhb,Are there more cops out at the end of the month because they have to meet their monthly ticket quotas?,IMPLICIT_COMPARISON
+9s3rzj,that Teens get zits more than Adults?,STRICT_COMPARISON
+9s3u16,Sitting on cold surfaces gives you a greater chance to get hemorrhoids.,IMPLICIT_COMPARISON
+9s6il9,"You waste more money using credit cards than when paying with cash, and companies realize this.",IMPLICIT_COMPARISON
+9sdhw7,"Toyotas are less safe than any other car make because of the ""cheap"" materials they use in the chassis",STRICT_COMPARISON
+9sdkwv,"Toyotas are less safe than any other car make because of the ""cheap"" materials used in the chassis of their cars",STRICT_COMPARISON
+9sho3v,that the air on aircraft was cleaner or fresher when smoking was allowed on board?,IMPLICIT_COMPARISON
+9sjvob,There’s a chemical in cat pee that’s makes people take more risks.,IMPLICIT_COMPARISON
+9sk08f,There’s a chemical in cat pee that makes people take more risks,IMPLICIT_COMPARISON
+9smcpv,"Neurologists claim that every time you resist acting on your anger, you’re actually rewiring your brain to be calmer and more loving",IMPLICIT_COMPARISON
+9sn0os,Running the heater in your car uses more gasoline.,IMPLICIT_COMPARISON
+9sqysz,internet explorer is really slow compared to everything else.,STRICT_COMPARISON
+9sssms,If you have an automatic watch it is better to let it “rest” rather than having it run constantly,IMPLICIT_COMPARISON
+9stop4,Is is bullshit: water is the healthiest drink for losing weight and overall some super liquid??,IMPLICIT_COMPARISON
+9t0usb,Cops pull over more people at the end of the month to meet a quota.,IMPLICIT_COMPARISON
+9t2hyo,you feel as if time speeds up as you grow older,IMPLICIT_COMPARISON
+6fdb3i,Hollywood sometimes make flops on purpose to get in a lower tax bracket?,IMPLICIT_COMPARISON
+6gl4a8,Are organic foods actually better for you?,IMPLICIT_COMPARISON
+6hk0l2,It costs more to execute an inmate than to keep them in prison for life.,IMPLICIT_COMPARISON
+8161z8,When it comes to radiation output a banana is technically more dangerous than WiFi,STRICT_COMPARISON
+81iyr8,The cancer treatments are more painful than cancer itself.,STRICT_COMPARISON
+81jqtt,"Bell peppers with 4 bumps on the bottom are sweeter and better for fresh eating ,while peppers with 3 bumps are better for cooking?",IMPLICIT_COMPARISON
+81qofl,Items at the back of shelf are the freshest,IMPLICIT_COMPARISON
+81rafz,Doing squats actually makes your ass bigger,IMPLICIT_COMPARISON
+81shzl,It is easier for women to hold their pee than men,IMPLICIT_COMPARISON
+81wgdv,Black absorbs more heat,IMPLICIT_COMPARISON
+81whrn,that black colour absorbs more heat,IMPLICIT_COMPARISON
+81zhva,Those frozen veggie pastas are better for you than regular pasta,IMPLICIT_COMPARISON
+827e9q,Interracial babies are less likely to have genetic disorders.,IMPLICIT_COMPARISON
+82iwx1,the continent of Africa is more diverse than the rest of the world,STRICT_COMPARISON
+82k5cv,"All blacks have an IQ of 300 and since the IQ tests were made by white people, who have an IQ cap of 200, black intelligence is being overflowed and can't be comprehended by lighter skin tones.",IMPLICIT_COMPARISON
+82ryxj,You become more attractive if you stop masturbating,IMPLICIT_COMPARISON
+82u5gk,clear liquor is better for you than dark liquor.,IMPLICIT_COMPARISON
+836sou,Humans have 10 times more bacteria on them than human cells,IMPLICIT_COMPARISON
+83fkin,"On average, students get 50% more homework than their parents when they studied",STRICT_COMPARISON
+83k5zq,Your hearing only gets worse,IMPLICIT_COMPARISON
+83qxra,"America, at one point, held the title of healthiest country in the world and fattest country in the world.",IMPLICIT_COMPARISON
+83t9oy,Sports drinks do more harm that good if you're not sweating profusely when trying to hydrate due to high sodium levels,IMPLICIT_COMPARISON
+84amys,The sleep you get before midnight is worth more than that you get after,STRICT_COMPARISON
+84nggv,Side-parting your hair makes the hair along the side-part line thinner.,IMPLICIT_COMPARISON
+84orda,Orgasms are stronger when you're with a partner,IMPLICIT_COMPARISON
+84u84p,Drinking a glass of orange juice does more harm than good to your body.,STRICT_COMPARISON
+84u9cf,"Does ""Extra Caffeinated Coffee"" actually contain more caffeine than a normal cup of coffee?",STRICT_COMPARISON
+84ub63,"Extra Caffeinated Coffee"" contains more caffeine than a normal cup of coffee",STRICT_COMPARISON
+84vonc,"If you get a new mole on your skin as long as it isn’t irregular shape, color, and smaller than a pencil eraser head it is normal?",STRICT_COMPARISON
+84ysaw,Frying in butter is healthier than frying in oil?,STRICT_COMPARISON
+8580q3,African Americans are more violent than other races,STRICT_COMPARISON
+8589pe,"Double dipping, is it as bad as people make it seem?",STRICT_COMPARISON
+858c3a,Showers before bed make it harder to fall asleep,IMPLICIT_COMPARISON
+858x2h,that a whole county in Washington (state) legalized the possession of all drugs as long as you only had 2 grams or less?,IMPLICIT_COMPARISON
+85exet,Vaping is worse than or equal to smoking cigarettes?,STRICT_COMPARISON
+85f1n5,Brushing your teeth back and forward horizontally isn't as effective as brushing in circles?,STRICT_COMPARISON
+85guby,Diet Coke is worse for you than regular Coke,IMPLICIT_COMPARISON
+85ku6a,the expensive “total system cleaners” that you add to a tank of gas are actually better than the cheap kinds.,STRICT_COMPARISON
+85n69r,Tilapia is a garbage fish worse than bacon,STRICT_COMPARISON
+85ukpz,Menthol cigarettes are worse for you than full flavored,IMPLICIT_COMPARISON
+85unps,Menthol cigarettes are worse for you than others,IMPLICIT_COMPARISON
+85vg4d,Slavery is more prominent today than ever before.,IMPLICIT_COMPARISON
+86e0w6,Sparkling water actually makes you less hydrated,IMPLICIT_COMPARISON
+86e6bo,Are frozen fruits and vegetables really more “fresh” and better for you than fresh fruits and vegetables in the produce section?,IMPLICIT_COMPARISON
+86ivmw,Getting too much sleep is way worse than sleeping at all,STRICT_COMPARISON
+86q7ku,raised dog bowls are better for your dog?,IMPLICIT_COMPARISON
+86u6se,Soda makes you slower.,IMPLICIT_COMPARISON
+86znlg,sugar is just as addictive as cocaine,STRICT_COMPARISON
+876a81,Darker colors get more heat/sun than brighter colors?,IMPLICIT_COMPARISON
+876wz1,Darker colors attract more heat/sunlight but lighter colors don’t get the same amount?,IMPLICIT_COMPARISON
+87fgps,Sleeping for 6 hours is as bad as not sleeping at all,STRICT_COMPARISON
+87owtt,"When you look younger than most in school, you look younger as you become an adult when everyone else looks old as shit because they looked older and more mature in school?",STRICT_COMPARISON
+87pnkn,Drinking out of glass bottles is healthier than drinking out of plastic bottles,STRICT_COMPARISON
+87s1zs,All in one shampoo is worse then using conditioner and shampoo separately.,IMPLICIT_COMPARISON
+87whh4,dogs mouths are cleaner than humans,STRICT_COMPARISON
+87zayn,Soap helps remove more germs from your hands than plain water,IMPLICIT_COMPARISON
+881hxt,The US has more aircraft then the rest of the world combined,IMPLICIT_COMPARISON
+8825lf,Farts smell stronger in the shower than regular ones?,IMPLICIT_COMPARISON
+882uvu,that there are more babies born on a full moon?,IMPLICIT_COMPARISON
+887n30,Soap removes more germs than just plain water does.,STRICT_COMPARISON
+88d0z4,Garlic and to a lesser extent onions are neurotoxic,IMPLICIT_COMPARISON
+88ehve,"When no soap is available, washing your hands with just water is worse than not washing them at all.",STRICT_COMPARISON
+1rxz8h,Our brain makes us see ourselves 5 times more attractive than we really are.,STRICT_COMPARISON
+1sonnt,Raw milk is healthier than pasteurized milk.,STRICT_COMPARISON
+1taitf,Not brushing your teeth before bed does more damage than not brushing it in the morning.,STRICT_COMPARISON
+2cq74t,IsItBlshit: Downloading more ram?,IMPLICIT_COMPARISON
+2ct2fr,More concussions and head related injuries happen in soccer than football,IMPLICIT_COMPARISON
+2damly,Gatorade hydrates you better than water,STRICT_COMPARISON
+2dfvpm,More people use MySpace than Reddit,IMPLICIT_COMPARISON
+2dpw2e,A good vinyl player is more important than good speakers?,STRICT_COMPARISON
+2eiz8f,Countries where christanity has had the greatest influence were the first to abolish slavery.,IMPLICIT_COMPARISON
+2o067x,Warm water is better for your digestion and kidneys than cold water?,IMPLICIT_COMPARISON
+2o39pq,Vape Pens are just as dangerous as cigarettes?,STRICT_COMPARISON
+2o83si,Car exhaust fumes are worse for your health than second hand smoke from cigarettes.,IMPLICIT_COMPARISON
+2qk2q4,Styrofoam containers make food taste worse?,IMPLICIT_COMPARISON
+5fv8hi,Perception of time speeds up the older you get?,IMPLICIT_COMPARISON
+5h8f4e,Our attention spans are shorter than they were in the past,STRICT_COMPARISON
+5hh2c0,Putting salt on mouth ulcers is the fastest way to heal them,IMPLICIT_COMPARISON
+5i5lyh,"Sleep Bank, Sleep Debt, Catching up on sleep, Train Yourself to be a ""shorter sleeper""",IMPLICIT_COMPARISON
+5j3ukf,Intelligent people have fewer friends,IMPLICIT_COMPARISON
+5l7b71,"If a crush lasts longer than 4 months, then it's love",STRICT_COMPARISON
+8v68p8,female orgasms are more intense than male orgasms?,STRICT_COMPARISON
+8v6z4r,pig is smarter than dog,STRICT_COMPARISON
+8v7eo4,washing your dirty shoes in the dishwasher is the best way to clean it,IMPLICIT_COMPARISON
+8v7u21,you lose more calories than you gain from eating celery,STRICT_COMPARISON
+8vd5gc,There’s LASIK treatments that can restore your eye to even better than normal eyesight?,STRICT_COMPARISON
+8vmr8d,Red cars cost more to insure than other colors,IMPLICIT_COMPARISON
+8vmx6l,"Tuesday’s at 3:00pm, six weeks before your flight, is the cheapest time the plane tickets will ever be.",IMPLICIT_COMPARISON
+8vnj8j,not putting deodorant on as often makes you less stinky and or sweat less ?,IMPLICIT_COMPARISON
+8vuang,Keeping a/c going saves more electricity rather than turning it on and off several times a day,IMPLICIT_COMPARISON
+8vuatk,Alcoholism/Addiction is genetic and is strongest in the oldest child.,IMPLICIT_COMPARISON
+8vyz49,A super buff trainer at my gym says he never lifts very weights because “getting a perfect contraction of your muscle builds it just as well or better.”,IMPLICIT_COMPARISON
+8w0krj,Artificial sweetener is worse for you than sugar,IMPLICIT_COMPARISON
+8w5pnf,You get more wet running in the rain than if you were to walk or stand in the rain.,IMPLICIT_COMPARISON
+8wbv98,Chewing gum makes your face thinner?,IMPLICIT_COMPARISON
+8wkv4n,Is paypal really as secure as they claim to be?,STRICT_COMPARISON
+8wlspj,Drinking hot beverages makes you feel colder,IMPLICIT_COMPARISON
+8woqq7,Hair grows back faster and thicker after shaving.,IMPLICIT_COMPARISON
+8x2yl3,installing xbox 360 games to the hard drive shortens load times/makes the games quicker?,IMPLICIT_COMPARISON
+8x6pv9,human inbreeding is somewhat more common on Tasmania than it is on the Australian mainland,IMPLICIT_COMPARISON
+8x8eu6,Sit-ups and other exercises with the same motion provide little benefit while posing a higher risk for injury,IMPLICIT_COMPARISON
+8x8tg1,that UPF fabric is better at blocking UV rays than normal clothing?,IMPLICIT_COMPARISON
+8xbewr,water from the toilet is cleaner than the water from the sink,STRICT_COMPARISON
+8xcxvy,"do the ""natural"" and exotic-sounding ingredients in fancy hair and skin products do anything for your hair and skin that cheaper generic products do not?",IMPLICIT_COMPARISON
+8xg8l8,running on an empty stomach makes you lose more bodyfat.,IMPLICIT_COMPARISON
+8xjb7q,Hot water takes longer to boil than cold water.,IMPLICIT_COMPARISON
+8xjq4g,Being in your car during a lightning storm is safer than not?,STRICT_COMPARISON
+8xm5ir,I keep seeing a Facebook post going around that says 2 handfuls of cashews are more of an anti depressant than Prozac.,IMPLICIT_COMPARISON
+8xmtcs,Veganism kills more animals than hunting,STRICT_COMPARISON
+8xmurq,"There are more Chinese restaurants in the US than McDonald's, Burger King and KFC combined?",IMPLICIT_COMPARISON
+8xn2ix,"There are more Chinese restaurants in the US than McDonald's, Burger King and KFC combined.",IMPLICIT_COMPARISON
+8xpvtn,Drinking Room temperature water is better for your body than cold water?,IMPLICIT_COMPARISON
+8xrgoc,Keeping your gas tank always full is cheaper than waiting until less than 1/4 tank and only refilling after that time.,STRICT_COMPARISON
+8y1pio,If you flatten Vermont it's bigger than Texas,STRICT_COMPARISON
+8y3uu4,using artificial sweeteners is even worse than using sugar,STRICT_COMPARISON
+8y6983,your mind makes you look way more appealing to yourself,IMPLICIT_COMPARISON
+8yf1je,Is alkaline water really better for you?,IMPLICIT_COMPARISON
+8yfwsl,Going exactly the speed limit makes you more likely to get all green lights.,IMPLICIT_COMPARISON
+8yg03l,You’re more likely to get green lights if you go exactly the speed limit.,IMPLICIT_COMPARISON
+8ygemm,Lip moisturizers actually make your lips more dry because your body responds by not naturally doing whatever it does normally to help your lips not feel dry,IMPLICIT_COMPARISON
+8yk43p,you burn more calories when you are in cold places because you need to burn fat to keep your body warm,IMPLICIT_COMPARISON
+8ymddh,It’s better to crack an egg on a flat surface rather than a sharp surface,IMPLICIT_COMPARISON
+8yoecc,Is Toxoplasmosis as bad as it sounds?,STRICT_COMPARISON
+8yohfl,Death penalty is less expensive than having to keep an inmate on prison?,STRICT_COMPARISON
+8yokb9,Death penalty is less expensive than housing the inmate for life,STRICT_COMPARISON
+8ytfqh,CTE is more likely to occur from repeated blows to the head over time rather than getting knocked out by one big blow.,IMPLICIT_COMPARISON
+8yull5,Is it true that the bigger the O the bigger the hoe when it comes to earrings and females?,IMPLICIT_COMPARISON
+8z2rq2,Heating a needle with a lighter makes it sterile,IMPLICIT_COMPARISON
+8z5j5x,You get more seasick when you’re hungry,IMPLICIT_COMPARISON
+8z7d79,Costco gas gives you less mileage compared to other gas stations.,STRICT_COMPARISON
+8zcgsw,"In the United States, it’s more likely for one to be killed, or at least wounded, by an armed toddler than a terrorist",IMPLICIT_COMPARISON
+8zgwt6,red velvet cake is no more than regular chocolate cake with red food dye,STRICT_COMPARISON
+8zjbe6,A Ladybug is as old as the number of spots on it's body,STRICT_COMPARISON
+8zjd2i,A ladybug is as old as old as the number of spots on it's body?,STRICT_COMPARISON
+8zo3nu,Is it easier to learn swimming in the sea compared to river or swimming pool?,STRICT_COMPARISON
+8zo6s5,It is easier to learn swimming in salty water (sea) than river or swimming pool.,IMPLICIT_COMPARISON
+8zpnov,EMS(Electrocal Muscle Simulation) helps you build muscle without weights easier than traditional Body-Weight w Workouts,STRICT_COMPARISON
+8zqtxv,The royal family brings more money into England than they spend?,IMPLICIT_COMPARISON
+8zyrxf,That electric cars are actually worse for the environment than regular cars because of the resources needed to make an electric car battery?,IMPLICIT_COMPARISON
+9009zw,"Scammers intentionally make their emails full of misspellings and red flags, in order to only attract the most gullible recipients.",IMPLICIT_COMPARISON
+907t01,Is better for ur backs to sleep on hard surfaces instead of a mattress?,IMPLICIT_COMPARISON
+90a2kw,Saturated fats are bad for you and it’s better to replace them with unsaturated fats?,IMPLICIT_COMPARISON
+90cemt,Smile Direct Club really works as a cheaper alternative to braces.,IMPLICIT_COMPARISON
+90ovo3,Sprite is healthier than Coke.,STRICT_COMPARISON
+90r4op,Multivitamins are a poorer source of vitamins than normal foods,IMPLICIT_COMPARISON
+90rygo,Bearspray is a better deterrent to bears than firearms.,IMPLICIT_COMPARISON
+90vgp7,"Are frozen drinks (slurpees, frozen coke etc) as bad as people say?",STRICT_COMPARISON
+90w2ne,"are frozen drinks (slurpees, frozen coke’s etc) as bad as they say they are?",STRICT_COMPARISON
+90zqhz,Physical pain is more intense if you do it to yourself rather than someone inflicts it on you?,IMPLICIT_COMPARISON
+915z5o,drinking warm water is healthier than drinking cold water.,STRICT_COMPARISON
+916jyo,having to pee makes you better at performing mental tasks because the mind is already on edge concentrating to hold the pee in,IMPLICIT_COMPARISON
+91cyyn,You get more hungover from strong drinks than from weak drinks.,IMPLICIT_COMPARISON
+91fr8c,Starbucks new strawless lid uses more plastic than a straw.,STRICT_COMPARISON
+91hj0v,"you look skinnier in the mirror than in real life, because in the mirror you see yourself in 2D.",IMPLICIT_COMPARISON
+91hqjo,"you look skinnier in the mirror than in real life, because it is only your reflection.",IMPLICIT_COMPARISON
+91imqg,plant based agriculture (due to habitat loss for example) is just as bad as animal based agriculture for the environment?,STRICT_COMPARISON
+91krda,Electric cars actually consume more energy,IMPLICIT_COMPARISON
+91q8gz,Doctors use rubber ear cleaner syringes to clean newly-born babies.,IMPLICIT_COMPARISON
+9221yu,the weed we have today is significantly stronger than anything the 70's could've grown,STRICT_COMPARISON
+922687,Dogs perception of time is quicker than ours.,STRICT_COMPARISON
+92a09v,Is it better to get your hair cut when it's wet??,IMPLICIT_COMPARISON
+92h3fs,"It is physically harder to cry as a male, than it is to cry as a female.",IMPLICIT_COMPARISON
+92n4zf,"Some people's frames are bigger than others' because they're ""big-boned""",STRICT_COMPARISON
+92rtn1,The crust of sliced bread is more nutritious.,IMPLICIT_COMPARISON
+92ryvt,Higher octane gasoline makes a difference in how your vehicle performs.,IMPLICIT_COMPARISON
+92uvni,Cops write more tickets toward the end of the month “to meet their quota.”,IMPLICIT_COMPARISON
+92v0um,the skin of fruits and vegetables have much less nutrients than the inside,STRICT_COMPARISON
+92v1nq,Cops write more tickets toward the end of the month to “meet their quota.”,IMPLICIT_COMPARISON
+92x91n,You are more likely to get sick while being outside on a cold day,IMPLICIT_COMPARISON
+92y04i,"Some types of alcohol (gin, for example) is worse for your liver than others.",IMPLICIT_COMPARISON
+939s6q,"“alpha” dog is the most threatening, that’s why newcomer puppy is aggressive towards it and not to others.",IMPLICIT_COMPARISON
+93b1li,Your left foot is bigger than your right foot,STRICT_COMPARISON
+93daz1,Overweight people feel hotter in the summer,IMPLICIT_COMPARISON
+93egwr,there's more caffeine in tea than there is in coffee.,IMPLICIT_COMPARISON
+93i9qo,Water is better for staying awake than caffeine.,IMPLICIT_COMPARISON
+8glcqe,Thinking about dilemmas in a second language helps you get to less biased solutions/outcomes because you aren't as emotionally engaged,IMPLICIT_COMPARISON
+8gndap,Being born in a certain month makes you more immune to the weather,IMPLICIT_COMPARISON
+8gs9yw,Eating smaller snacks throughout the day is healthier than eating 3 square meals a day?,STRICT_COMPARISON
+8h7bm6,Strongman body is more functional and more strong than of the bodybuilders,STRICT_COMPARISON
+8h7iij,"the more you chew your food, the more nutrients you get out of it?",IMPLICIT_COMPARISON
+8hb9h7,The dirtiest thing in a hotel room is the remote control?,IMPLICIT_COMPARISON
+8hshtn,are red cars more expensive to insure?,IMPLICIT_COMPARISON
+8hujy7,Americans pay more than anybody for healthcare and have worse outcomes than nations comparable technology?,STRICT_COMPARISON
+8hulx2,In the United States people spend more money on healthcare and have worse outcomes than other nations with comparable technology?,IMPLICIT_COMPARISON
+8i9mna,Buffets add chemicals to the water to make you more full,IMPLICIT_COMPARISON
+8igy1e,"airplane tickets are different prices throughout the week, and cheapest at night.",IMPLICIT_COMPARISON
+8iqkzi,Drinking tea makes you more prone to kidney stones and drinking lemonade makes you less?,IMPLICIT_COMPARISON
+8j6iba,Staying indoors on a cold day is more likely to make you ill,IMPLICIT_COMPARISON
+8jo39q,Ants make up a larger proportion of biomass in tropical forests than trees?,IMPLICIT_COMPARISON
+8jo5mb,Eating 5 small meals is healthier than 3 regular ones,STRICT_COMPARISON
+8joqgj,putting your car in cruise control in the rain makes it more likely for you to hydroplane,IMPLICIT_COMPARISON
+8jq2t4,Eco friendly/natural laundry detergents are better for you compared to regular detergents.,STRICT_COMPARISON
+8jvuat,Indoor air is more pollute than outdoor?,STRICT_COMPARISON
+8k7z6q,eating a hot dog is as bad as smoking a cigarette and hamburgers can give you cancer,STRICT_COMPARISON
+8ka2kv,The earth is smoother than a billiards ball?,STRICT_COMPARISON
+8kfmdd,Do curved treadmills make you burn more calories?,IMPLICIT_COMPARISON
+8kks56,Expensive cables have better quality signals than cheap ones.,IMPLICIT_COMPARISON
+8kkyfh,Keyboards contain more bacteria than toilet seats?,STRICT_COMPARISON
+8kn5sz,There were more students and teachers killed in school shootings than US Military killed in active duty in 2018,IMPLICIT_COMPARISON
+8kr9ld,There are more people alive than dead,IMPLICIT_COMPARISON
+8l0jqd,Sheetz gas is worse than other gas station gas?,STRICT_COMPARISON
+8l6fyg,"Catfish, crabs, pigs, and animals that eat ""unsanitary"" things are less fit for consumption",IMPLICIT_COMPARISON
+8loy68,"If a crush lasts longer than 4 months, you’re in love",STRICT_COMPARISON
+8lp9mm,You’re more likely to be hurt in a car accident if you’re aware due to tensing up vs. being drunk/unconscious/asleep.,IMPLICIT_COMPARISON
+8lqcif,that womens farts smell worse than mens on average,STRICT_COMPARISON
+8ls1rw,Shaving your beard with a razor makes it thicker?,IMPLICIT_COMPARISON
+8lujbh,"Strength workouts are more effective if you do them every other day, rather than every day",IMPLICIT_COMPARISON
+8lx2lr,Strawberries have more vitamin C than oranges,IMPLICIT_COMPARISON
+8ly5mk,Tree roots grow as deep as the tree is tall?,STRICT_COMPARISON
+8m1nga,Smart people have worse handwriting?,IMPLICIT_COMPARISON
+8m6o5i,rolling clothes while packing saves more room than folding them?,STRICT_COMPARISON
+8m7k15,Dog mouths are cleaner than human mouths,STRICT_COMPARISON
+8m8axh,Does coccyx seat cushion actually help you with better posture?,IMPLICIT_COMPARISON
+8markr,"Eating a ""healthier"" diet changes your body in a way that stops it from craving sugary and unhealthy foods?",IMPLICIT_COMPARISON
+8ml34n,Drinking warm water is better for your body than drinking ice cold water on a hot day.,IMPLICIT_COMPARISON
+8mntjo,My high school years are the 4 best years of my life,IMPLICIT_COMPARISON
+8ms3m9,"The best time to buy a plane ticket is on a Tuesday, six weeks prior to the fligjt",IMPLICIT_COMPARISON
+8ms9sa,Are Steel Toe shoes safer for everyday wear?,IMPLICIT_COMPARISON
+8mscgj,Steel Toed shoes are actually safer?,IMPLICIT_COMPARISON
+8mtg3b,Drinking warm water is better for your body than ice cold water on a hot day.,IMPLICIT_COMPARISON
+8mu6tn,"If your big toe is smaller than the toe next to it, then you're better in bed",STRICT_COMPARISON
+8n18w7,"Using a cleaner other than an enzyme based cleaner on pet urine before the enzyme cleaner, makes the urine permanent?",STRICT_COMPARISON
+8n1p8o,Himalayan salt is healthier than regular table salt,STRICT_COMPARISON
+8n4h1v,Asian men and Black women tend to have it worse in the dating scene,IMPLICIT_COMPARISON
+8n4i7b,Asian men and Black Women have it worse in the dating scene then other groups,IMPLICIT_COMPARISON
+8n4iqj,Asian Men and Black Women have it worse in the dating scene,IMPLICIT_COMPARISON
+8n4jyv,Asian Men and Black Women have it worse in be dating scene,IMPLICIT_COMPARISON
+8n9u2k,do black clothes really get significantly hotter on a summerday or is the difference actually not really noticeable?,IMPLICIT_COMPARISON
+8nbzbv,Eating many small meals is better than eating few large meals for weight loss,STRICT_COMPARISON
+8ndkzy,spraying perfume on ‘pulse points’ on the body is more effective than just spraying it anywhere.,STRICT_COMPARISON
+8nhdnt,It’s better to consume foods with Sweeteners(like Cola Zero or EXTRA gum) compared to foods with normal sugar(Like pepsi or sweetener tablets for coffe),STRICT_COMPARISON
+8nhl2f,Normal sugar is healthier to consume than sweeterns,IMPLICIT_COMPARISON
+9c06fp,college sports recruiters take into account the physical attractiveness of high school prospect athletes because if they’re more attractive they will tend to have more confidence,IMPLICIT_COMPARISON
+9c3k09,Edge is faster than both Chrome and Firefox,STRICT_COMPARISON
+9c3q98,that it’s best to workout first thing in the morning prior to eating because you haven’t consumed any calories yet so you’re strictly burning fat?,IMPLICIT_COMPARISON
+9c3twb,it’s more effective to work out first thing in the morning before you’ve had breakfast because you haven’t consumed any calories so you’re strictly burning fat.,IMPLICIT_COMPARISON
+9cbu6s,a dark screen uses up more battery than a light screen on your laptop/phones,STRICT_COMPARISON
+9ccymz,that bras actually make you more likely to sag earlier on?,IMPLICIT_COMPARISON
+9cg05m,MMA is a safer sport than boxing,IMPLICIT_COMPARISON
+9cmeiq,Charging an iPhone on low power mode causes it to charge slower,IMPLICIT_COMPARISON
+9cspu4,Working to live is better than living to work?,STRICT_COMPARISON
+9cv3gi,it’s healthier to sleep on your left side,IMPLICIT_COMPARISON
+9da13y,true psycopaths like to interact with children rather than adults because their emotions are easier to emulate and mirror back,IMPLICIT_COMPARISON
+9dbj4a,Sitting on a physioball is better for your spine?,IMPLICIT_COMPARISON
+9dg54u,when you’re ill it’s better if you let yourself naturally get back to normal rather then taking pills?,IMPLICIT_COMPARISON
+9dvntc,can a device the size of a watch make your whole body feel cooler or warmer?,IMPLICIT_COMPARISON
+9dz8rw,You get less benefit when you work out biceps and triceps on the same day.,IMPLICIT_COMPARISON
+9e0jlw,are you MUCH more likely to get addicted to a substance if you use it as a stress reliever than if you used it for fun?,IMPLICIT_COMPARISON
+9e32xj,wearing tight-fitted underwear makes your scrotum and testicles smaller,IMPLICIT_COMPARISON
+9e4h9s,Microsoft once promoted the Zune by telling people it was cheaper to fill it with songs than the ipod because it had less capacity.,IMPLICIT_COMPARISON
+9e6svc,To stand in front of a microwave and peepee gets smaller?,IMPLICIT_COMPARISON
+9e770a,Running a dishwasher once a day at the end of a typical day of dish usage saves more water than hand washing the same amount?,STRICT_COMPARISON
+9e8247,"If you're a farmer or a country folk, to be called a city slicker is negative.",IMPLICIT_COMPARISON
+9eajrb,the human brain makes you see yourself as 5X more beautiful than you actually are?,STRICT_COMPARISON
+9eecok,"that all males are somewhere on the Autistic spectrum, when compared to females?",STRICT_COMPARISON
+9eemjh,French Kissing your partner allows you to become more aroused due to hormones?,IMPLICIT_COMPARISON
+9ef7ii,Shell petrol gets you better milage ?,IMPLICIT_COMPARISON
+9efv99,The reason blood is taken from above our elbow is because there are less pain receptors there?,IMPLICIT_COMPARISON
+9ep4iu,It’s easier to buy a gun in the United States than it is to buy a gun in most other developed nations.,IMPLICIT_COMPARISON
+9epkv2,4G is actually a faster class of speeds than LTE.,IMPLICIT_COMPARISON
+9ex8f4,Lifesavers candies have a hole in the middle so that you're less likely to choke on one,IMPLICIT_COMPARISON
+9ey3f6,McDonald's is the largest distributor of toys in the world.,IMPLICIT_COMPARISON
+9eyybl,Rice is worse than sugary drinks?,STRICT_COMPARISON
+9f0zpk,Being lonely is apparently worse than 15 cigarettes a day,STRICT_COMPARISON
+9f2n1l,"it's better to put ""prefer not to say"" as your race on college/job applications rather than ""white""",IMPLICIT_COMPARISON
+9f2x20,Are citizens better at the police's job than actual policemen?,IMPLICIT_COMPARISON
+9ffaod,Smoking marijuana makes a man less likely to produce male offspring,IMPLICIT_COMPARISON
+9fh24k,That driving with your windows up and AC on when going 35 mph+ saves more gas than having the windows down,STRICT_COMPARISON
+9fjmeg,In the first 15 minutes of rain the roads are the slickest,IMPLICIT_COMPARISON
+9fkiib,Mazola corn oil is healthier and reduces cholesterol 2x more than olive oil?,STRICT_COMPARISON
+9fl8lp,Biting off someones finger is as easy as biting through a baby carrot,STRICT_COMPARISON
+9fpwpr,Women are more shallow when it comes to judging people on looks,IMPLICIT_COMPARISON
+9fqrnq,"A ""ovo-vegatarian"" diet including occasional pasture raised meat and eggs is more healthy/environmental than vegan diets.",IMPLICIT_COMPARISON
+9fsz2q,Overweight women need bigger penises.,IMPLICIT_COMPARISON
+9fxpio,"Washing your hands with cold water is more effective, because the hot water from the sink isn’t hot enough to kill germs, and instead make them grow faster",IMPLICIT_COMPARISON
+9g17xv,the harder your nails are to cut the healthier you are?,IMPLICIT_COMPARISON
+9g3f5z,Crocodiles are much more aggressive than alligators,STRICT_COMPARISON
+9g8x4y,Shaving (in any area) makes hair grown back thicker and more quickly?,IMPLICIT_COMPARISON
+9g9oc7,LCD phone screens use more battery when displaying dark/black screens,IMPLICIT_COMPARISON
+9gd1zp,Kids that are born in September are smarter.,IMPLICIT_COMPARISON
+9gghxp,When you get fatter your appetite goes up,IMPLICIT_COMPARISON
+9gjd0a,sex is the best exercise,IMPLICIT_COMPARISON
+9gjnjw,Tempered glass provides no advantage compared to normal plastic screen protectors.,STRICT_COMPARISON
+9gpj4i,left handed people have a lower life expectancy than right handed people?,IMPLICIT_COMPARISON
+9gqapm,Tesla cars damage the earth more than they help because of the resource intensive production process,STRICT_COMPARISON
+9grfz1,Drinking while sitting is healthier?,IMPLICIT_COMPARISON
+9gunf2,The first born child usually gets the best genes,IMPLICIT_COMPARISON
+9gyf4z,Whispering is more harmful to a sore throat than talking,IMPLICIT_COMPARISON
+9h0qh9,Eating an apple is just as good as brushing your teeth,STRICT_COMPARISON
+9he7g3,Hezbollah is as or more powerful then the Lebanese army,IMPLICIT_COMPARISON
+9hgmzd,Hot water is more refreshing than cold water,STRICT_COMPARISON
+9hht6u,Diet soda is worse for you than regular soda?,IMPLICIT_COMPARISON
+9hprgd,It’s better to take s shower every other day as opposed to everyday.,IMPLICIT_COMPARISON
+9hsucm,People who played a musical instrument from a young age are more intelligent,IMPLICIT_COMPARISON
+9i2sue,"Are samples of products (shampoos, lotions etc) “stronger” than the actual product to get you to buy it?",IMPLICIT_COMPARISON
+9i52th,Room temperature water is better for you than cold/ice water?,IMPLICIT_COMPARISON
+9i5as0,Mexican Coke is healthier than regular bottled.,STRICT_COMPARISON
+9i6yff,"When it comes to finding the fastest route, Waze is more trustworthy than Google Maps.",STRICT_COMPARISON
+9i7a9j,British musicians make their accents thicker on stage.,IMPLICIT_COMPARISON
+9iaaei,"samples for products are often more concentrated so you think it’s more effective to get you to buy the full size version which is not as potent (lotions, fragrances, etc).",IMPLICIT_COMPARISON
+9idkj0,We know more about the universe than about our seas.,IMPLICIT_COMPARISON
+9ieqxy,African tribes genetically have less in common with other africans than north africans and nords,IMPLICIT_COMPARISON
+9ik8pq,Microwaving vegetables kills most of the nutrients compared to cooking it other ways,STRICT_COMPARISON
+9ik9rz,Expanding interstates/roads to fit more cars only causes worse traffic congestion.,IMPLICIT_COMPARISON
+9imtqn,The Halal method of slaughtering animals is the most cruel.,IMPLICIT_COMPARISON
+9irqtx,Your sense of taste diminishes as you get older,IMPLICIT_COMPARISON
+9it5yx,That hands and feet prune underwater to give you better grip?,IMPLICIT_COMPARISON
+9iu18v,filling only half tank instead of a full tank of gas in car helps save petrol because the car carries less weight around,IMPLICIT_COMPARISON
+9iwzq7,Are Americans as dumb as they portray them to be?,STRICT_COMPARISON
+9iygt7,Our fathers have more testosterone and their fathers have more testosterone,IMPLICIT_COMPARISON
+9ize78,Celery has negative calories because it takes more energy to consume it than it has.,IMPLICIT_COMPARISON
+9j15ld,"The smellier your poo is, the healthier you are?",IMPLICIT_COMPARISON
+9j8f4i,Women are more likely to be attracted to assholes,IMPLICIT_COMPARISON
+9j96rw,Fat people have stronger legs than someone their same height but in their healthy weight,IMPLICIT_COMPARISON
+9jeud1,Face exercises change your facial appearance or can make your slimmer,IMPLICIT_COMPARISON
+9jktzh,when it’s cold outside you tend to get ill because you spend more time indoors,IMPLICIT_COMPARISON
+9jqvok,"hunters are the best conservationists, because all the money they pay for licenses and permits goes towards wildlife biologists conducting studies and the preservation of wildlife and wild lands.",IMPLICIT_COMPARISON
+9jtezc,Eating one meal a day is worse than multiple small meals a day because your body goes into starvation mode and will store more of the nutrients as fat.,STRICT_COMPARISON
+9k2uxv,Humanity Officially Consumed More than Earth can Produce in One Year,STRICT_COMPARISON
+9k3mo1,Older pennies that are made out of copper are more valuable than newer pennies which are made out of zinc?,STRICT_COMPARISON
+9k4q76,People with depression think more realistically about the world (meaning they can’t lie to themselves to feel better) and that is at least part of the reason they’re depressed?,IMPLICIT_COMPARISON
+9k7art,The government has technology far more advanced that what we publicly see,IMPLICIT_COMPARISON
+9ka2b7,a pound of houseflies has more protein than a pound of beef?,STRICT_COMPARISON
+9kany7,Sugar is sweeter when it’s cold or frozen?,IMPLICIT_COMPARISON
+9kb9tg,washing your hair with only water is worse than not washing your hair at all,STRICT_COMPARISON
+9kbba1,Holding your breath makes it easier to aim?,IMPLICIT_COMPARISON
+93nbvu,scratching mosquito bites causes them to itch more,IMPLICIT_COMPARISON
+93sn9o,It is better to look at your phone with high/bright brightness than low/dim brightness at night with no lights on.,IMPLICIT_COMPARISON
+93zu6i,vacuum cleaner companies have to make the vacuum cleaners louder because else the consumers wouldn’t think it work,IMPLICIT_COMPARISON
+94aimv,"beer before liquor, never sicker, liquor before beer, you're in the clear?",IMPLICIT_COMPARISON
+94f4f4,"That toms are ~99.9% empty space, thus, 7 billion humans could easily fit in an apple if that empty space is removed.",IMPLICIT_COMPARISON
+94f74s,"ATOMS are ~99.9% empty space, thus, if that empty space was removed, 7 billion humans could easily fit in an apple(if that apple were hollow, of course).",IMPLICIT_COMPARISON
+94hb6v,More people now watch esports than regular sports.,IMPLICIT_COMPARISON
+94iond,Adrenaline makes you stronger,IMPLICIT_COMPARISON
+94j248,"if adjusted for inflation, The Dutch East India company was worth more than the top 200 companies combined today?",STRICT_COMPARISON
+94pte9,Mother Theresa did much more harm than good?,STRICT_COMPARISON
+94rm6g,Mosquito bites get bigger when you scratch them,IMPLICIT_COMPARISON
+94ue3t,The spines of lettuce are more nutrient rich than the leaves,IMPLICIT_COMPARISON
+94wh6e,Insects are more nutritious than common vegetables,STRICT_COMPARISON
+9508mi,A photo or video of yourself is a better representation of how you really look than a mirror?,IMPLICIT_COMPARISON
+9522ta,Bones get tougher as you train in a sport,IMPLICIT_COMPARISON
+956n5v,a photo or video of yourself is a better representation of how you really look than a mirror?,IMPLICIT_COMPARISON
+957pvt,after you give a guy head or have sex with him and he gets affectionate it’s because he really has feelings for you and that’s when he’s most honest?,IMPLICIT_COMPARISON
+95d5m8,"The Israeli military recruits 16-year-olds as fighter jet pilots because they have faster reflexes and are more willing to risk their lives, compared to people of ""normal"" military age.",STRICT_COMPARISON
+95dvjw,Stalin was immensely worse than Hitler.,STRICT_COMPARISON
+95hyzd,The heel of a loaf of bread is more nutritious.,IMPLICIT_COMPARISON
+95m604,Flipping the power on and off rapidly on a electronic consumes more electricity than leaving it on constantly,STRICT_COMPARISON
+95ugmx,sitting in your hand until it goes numb and jerking off makes it feel better?,IMPLICIT_COMPARISON
+95y5tb,Engineering jobs are harder to find and pay less than before,STRICT_COMPARISON
+960djl,Putting salt in your coffee makes it less acidic,IMPLICIT_COMPARISON
+966qox,"When you crack a window a little, it makes it easier to get flying insects out of your car?",IMPLICIT_COMPARISON
+96c65j,"The difference between a Tropicana Orange Juice (which has 23g of sugar) and a Pepsi is that the OJ is ""natural sugars"" thus healthier?",IMPLICIT_COMPARISON
+96cmrx,Sleeping on a wooden table provides better support and is better for your back?,IMPLICIT_COMPARISON
+96d3o6,Homeschooled kids are more likely to end up in jail than regular kids,IMPLICIT_COMPARISON
+96ezps,"when smoking weed, exhaling through your nose gives you a “better high”",IMPLICIT_COMPARISON
+96f4g7,Popping pimples only makes the problem worse,IMPLICIT_COMPARISON
+96g21d,Butter is better for you than margarine?,IMPLICIT_COMPARISON
+96iiny,that using cruise control uses less gas when driving on the highway?,IMPLICIT_COMPARISON
+96kcbf,are more beautiful women also more crazy?,IMPLICIT_COMPARISON
+96n3qm,Nicotine is more addictive than heroine,STRICT_COMPARISON
+96obll,Youtube and Reddit occasionally show an uneven estimate number of likes like 249 or 7999 just so more people would click on it and make the number even?,IMPLICIT_COMPARISON
+96si1l,apple slows down older devices,IMPLICIT_COMPARISON
+96t951,Diabetes is more likely to develop if you are constantly hungry due to not eating,IMPLICIT_COMPARISON
+96y9bj,Soda is more harmful than weed.,STRICT_COMPARISON
+970sse,weed is better than tobacco.,STRICT_COMPARISON
+97141z,‘Not from concentrate’ orange juice is just as bad as Coca-Cola?,STRICT_COMPARISON
+9791b0,Washing your hands with warm water is more hygienic than washing with cold water,STRICT_COMPARISON
+97dhm1,bathroom hand dryers are more sanitary than paper products used to dry your hands,STRICT_COMPARISON
+97gae3,"The amount of money you get paid in salary, depends on how much money you're making the company and it has less to do with anything else?",IMPLICIT_COMPARISON
+97iagp,The least damaging way for a ship to handle a rogue wave is to sail into it head on.,IMPLICIT_COMPARISON
+97iedn,The least damaging way for a ship to handle a rogue wave is to sail into it Bow-first?,IMPLICIT_COMPARISON
+97is45,Waking up at 5 AM makes you more productive?,IMPLICIT_COMPARISON
+97wwg8,Rates of crime affecting the minority races were much much lower under South African apartheid,IMPLICIT_COMPARISON
+9812om,Fat people are more likely to snore,IMPLICIT_COMPARISON
+9827vl,lemonade and coke are better in glass than in plastic bottles,IMPLICIT_COMPARISON
+983lqs,Turning AC on and off is less efficient and more expensive than leaving the AC on,STRICT_COMPARISON
+983mjm,"if you're in a body of water with lightning in the area, you're more likely to be struck.",IMPLICIT_COMPARISON
+98437t,"Most people like the taste of Pepsi more than Coke, but most people claim they prefer Coke because of the branding around Coke.",STRICT_COMPARISON
+9851gq,that having more tabs open on your phone drains the battery?,IMPLICIT_COMPARISON
+985e5j,Amgai is actually a threat to Europe but pharmaceutics have more interest in selling vaccinations than stopping it.,IMPLICIT_COMPARISON
+98cd3u,Coffee with milk is worse than plain coffee ?,STRICT_COMPARISON
+98doiu,South Koreans eat more dogs per capital than Chinese.,IMPLICIT_COMPARISON
+98dp9r,South Koreans eat more dogs per capita than Chinese people.,IMPLICIT_COMPARISON
+98ldd8,steaming vegetables preserves vitamins better than boiling?,STRICT_COMPARISON
+98zpq3,"MicroUSB cables, specifically the charging tips, fail more frequently than Apple’s iPhone/iPad cables",STRICT_COMPARISON
+997gg8,Is Yumeiho therapy safer than chiropractic therapy?,STRICT_COMPARISON
+998tg0,Islam is the biggest religion in the world.,IMPLICIT_COMPARISON
+99bl8m,Waking up during a certain point in your sleep cycle helps you feel less tired,IMPLICIT_COMPARISON
+99hc5z,that smoking while pregnant is better for the baby then not smoking?,IMPLICIT_COMPARISON
+99msno,The crust is the most nutritious part of bread?,IMPLICIT_COMPARISON
+99npew,Working our your lower body releases more testosterone and growth hormones making is easier to gain muscle and grow in height?,IMPLICIT_COMPARISON
+99resu,"Is it common practice as a bartender at a resort to make the ""one free drink for new guests"" weak as fuck with lower alcohol content since its free and make stronger drinks for well paying customers?",IMPLICIT_COMPARISON
+99y3hh,Eating spicy foods make you feel more full,IMPLICIT_COMPARISON
+9a8xxx,Men are heavier than women even if they’re the same height because of muscle mass,STRICT_COMPARISON
+9aabo7,"Legal regulation of personal plastic use, such as in banning drinking straws etc, is more effective than changing legislation regarding corporate waste",STRICT_COMPARISON
+9afc4g,a relit cigarette is more toxic,IMPLICIT_COMPARISON
+9ai3fj,Women tend to have lower libidos than men?,IMPLICIT_COMPARISON
+9aojx7,studying or practicing before going to sleep produces better results,IMPLICIT_COMPARISON
+9asced,a blended banana has more calories than a regular banana of equal weight?,STRICT_COMPARISON
+9auhdk,"Russians and Chinese people appear to be all apathetic/insane/rude because their Communist governments purged all of their intellectuals and artists; leaving behind a ""less civilized"" population.",IMPLICIT_COMPARISON
+9auvi2,People who like EDM / Electronic Music are 70% dumber than average,STRICT_COMPARISON
+9b16jb,Frank Sinatra was only as successful as he was because he had connections to the Mafia.,STRICT_COMPARISON
+9b1o38,Is it true that lotion is absorbed better when applied to wet skin?,IMPLICIT_COMPARISON
+9b2ej8,Using a computer/ looking at a screen in the dark is worse for your eyes than it would be if you had the room's light on,IMPLICIT_COMPARISON
+9b5ko4,Bracing makes you more likely to die in a plane crash,IMPLICIT_COMPARISON
+9bce63,"Most Americans have less than $1,000 in savings?",STRICT_COMPARISON
+9bgusk,"people are only contagious at the beginning of an illness, and when they are almost better they pose no threat.",IMPLICIT_COMPARISON
+9bh7og,Only 4% or less of all (straight) women are willing/happy to date a guy their height or shorter.,IMPLICIT_COMPARISON
+9bl0mz,"Bob The Builder has more UK Number One hits than Nirvana, Radiohead, The Who, Guns 'N Roses, and Metallica combined.",IMPLICIT_COMPARISON
+9bm0ft,"Organic produce is healthier, more environmentally friendly, and does less harm with pesticides.",IMPLICIT_COMPARISON
+9bnig2,Only 4% or less of straight women are happy or willing to date a guy their height or shorter.,IMPLICIT_COMPARISON
+9bnllw,Gingers feel more pain,IMPLICIT_COMPARISON
+9bq0j6,Drinking your own urine in a survival situation does more harm than good.,STRICT_COMPARISON
+9bvaj3,blowing air on your food from your mouth actually helps makes your hot food cooler,IMPLICIT_COMPARISON

@@ -8,13 +8,30 @@ from convokit import Corpus, download
 from utils import CATEGORY_FUNCTIONS, is_valid_claim
 
 def strip_isitbullshit(pattern, text):
+    """
+    Removes any mention of the subreddit (and variations of it) at the start of a claim
+
+    Parameters
+    ----------
+    pattern : re.Pattern
+        Compiled regular expression pattern used to remove the
+        subreddit mention.
+    text : str
+        Input text to remove subreddit mention
+
+    Returns
+    -------
+    str
+        Cleaned text with the subreddit mention removed and
+        leading/trailing whitespace stripped.
+    """
     return pattern.sub('', text).strip()
 
 def extract_based_on_category(category_name, pattern_func, df):
     if "claim" not in df.columns:
         raise ValueError("DataFrame must have a claim column")
     
-    os.makedirs("data", exist_ok=True)
+    os.makedirs("../data", exist_ok=True)
 
     results = df['claim'].apply(lambda text: pattern_func(text))#.apply(pattern_func)
     
@@ -24,7 +41,7 @@ def extract_based_on_category(category_name, pattern_func, df):
     matching_claims = df[mask].copy()[["conv_id", "claim", "type"]]
 
     csv_filename = f"data/{category_name}.csv"
-    matching_claims.to_csv(csv_filename, index=False)
+    matching_claims.to_csv(f"../{csv_filename}", index=False)
     
     print(f"Saved {len(matching_claims)} claims to {csv_filename}")
     return matching_claims
@@ -59,10 +76,16 @@ def main():
         #     print(conv.meta['title'])
 
     df = pd.DataFrame(data=data_list, columns=['conv_id', 'claim']) 
+
+    print("Filtering claims ...")
+
     df['valid_claim'] = df['claim'].apply(is_valid_claim)
     filtered_df = df[df['valid_claim'] == True].reset_index(drop=True)
 
     print(f"After initial filtering, the dataset is {len(filtered_df)} out of {len(df)}")
+    
+    filtered_df.drop_duplicates(subset=["claim"], inplace=True)
+    print(f"After dropping duplicate claims (claims with different conv_id, but same text of claim), the dataset is {len(filtered_df)}")
     
     if args.category != "all":
         pattern_func = CATEGORY_FUNCTIONS[args.category]
